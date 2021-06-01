@@ -149,5 +149,5 @@ https://registry.terraform.io/modules/zerotier/network/zerotier/latest
 https://registry.terraform.io/modules/zerotier/member/zerotier/latest
 
 # Reddit
-https://www.reddit.com/r/zerotier/
+https://www.reddit.com/r/zerotier/  
 http://reddit.com/r/homelab
