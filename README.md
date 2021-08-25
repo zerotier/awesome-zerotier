@@ -7,6 +7,21 @@ found on The Internet. Feel free to add yours!
 
 [Pull Requests](https://github.com/zerotier/awesome-zerotier/edit/main/README.md) accepted!
 
+# GitHub projects for ZeroTier
+
+- [key-networks / ztncui] (https://github.com/key-networks/ztncui)
+- [thedunston / bash_cli_zt] (https://github.com/thedunston/bash_cli_zt)
+- [dec0dOS / zero-ui] (https://github.com/dec0dOS/zero-ui)
+- [airman604 / discord-zerotier-bot] (https://github.com/airman604/discord-zerotier-bot)
+
+
+# GitHub projects using ZeroTier
+- [transumption / holo-router] (https://github.com/transumption/holo-router)
+- [hassio-addons / repository] (https://github.com/hassio-addons/repository/blob/master/zerotier/DOCS.md)
+- [uavpal / disco4g] (https://github.com/uavpal/disco4g)
+- [moonlight-stream / moonlight-docs] (https://github.com/moonlight-stream/moonlight-docs/wiki/Setup-Guide) 
+
+
 # YouTube
 - [Arkham Knight - ZeroTier LAN Coop gaming (Tunngle Alternative,Peer to Peer Network ) 2020 multiplayer gaming](https://www.youtube.com/watch?v=WIxpVHf4ic8) 
 - [Bivens PC - How To Create A VPN Tunnel With ZeroTier For Gaming](https://www.youtube.com/watch?v=KEGQaMrjwVQ) 
@@ -56,10 +71,12 @@ found on The Internet. Feel free to add yours!
 - [Servicios Virtuales Administrados SVA - Multi Usuario RDP/VPN ZeroTier -- CURSO GRATUITO](https://www.youtube.com/watch?v=z8N1NeYORbM)
 - [uGeek - ZeroTier. Alternativa a una VPN. También por Docker (hecho con Spreaker)](https://www.youtube.com/watch?v=g0Smu0rPhy8)
 
+
 # Terraform
 - https://registry.terraform.io/providers/zerotier/zerotier/latest
 - https://registry.terraform.io/modules/zerotier/network/zerotier/latest
 - https://registry.terraform.io/modules/zerotier/member/zerotier/latest
+
 
 # Reddit
 - [r/zerotier](https://www.reddit.com/r/zerotier/)
