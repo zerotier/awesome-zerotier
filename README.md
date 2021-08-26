@@ -9,17 +9,17 @@ found on The Internet. Feel free to add yours!
 
 # GitHub projects for ZeroTier
 
-- [key-networks / ztncui] (https://github.com/key-networks/ztncui)
-- [thedunston / bash_cli_zt] (https://github.com/thedunston/bash_cli_zt)
-- [dec0dOS / zero-ui] (https://github.com/dec0dOS/zero-ui)
-- [airman604 / discord-zerotier-bot] (https://github.com/airman604/discord-zerotier-bot)
+- [key-networks / ztncui](https://github.com/key-networks/ztncui)
+- [thedunston / bash_cli_zt](https://github.com/thedunston/bash_cli_zt)
+- [dec0dOS / zero-ui](https://github.com/dec0dOS/zero-ui)
+- [airman604 / discord-zerotier-bot](https://github.com/airman604/discord-zerotier-bot)
 
 
 # GitHub projects using ZeroTier
-- [transumption / holo-router] (https://github.com/transumption/holo-router)
-- [hassio-addons / repository] (https://github.com/hassio-addons/repository/blob/master/zerotier/DOCS.md)
-- [uavpal / disco4g] (https://github.com/uavpal/disco4g)
-- [moonlight-stream / moonlight-docs] (https://github.com/moonlight-stream/moonlight-docs/wiki/Setup-Guide) 
+- [transumption / holo-router](https://github.com/transumption/holo-router)
+- [hassio-addons / repository](https://github.com/hassio-addons/repository/blob/master/zerotier/DOCS.md)
+- [uavpal / disco4g](https://github.com/uavpal/disco4g)
+- [moonlight-stream / moonlight-docs](https://github.com/moonlight-stream/moonlight-docs/wiki/Setup-Guide) 
 
 
 # YouTube
