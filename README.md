@@ -11,15 +11,44 @@ found on The Internet. Feel free to add yours!
 
 [Pull Requests](https://github.com/zerotier/awesome-zerotier/edit/main/README.md) accepted!
 
+## Contents
+- [Self Hosting](#self-hosting)
+- [ZeroTier Networking](#zerotier-networking)
+- [ZeroTier Linux](#zerotier-linux)
+- [ZeroTier Remote Access](#zerotier-remote-access)
+- [ZeroTier SD-WAN](#zerotier-sd-wan)
+- [ZeroTier IoT](#zerotier-iot)
+- [ZeroTier Drone/UAV](#zerotier-droneuav)
+- [ZeroTier Automotive](#zerotier-automotive)
+- [ZeroTier Blockchain/Crypto](#zerotier-blockchaincrypto)
+- [ZeroTier Infosec](#zerotier-infosec)
+- [ZeroTier Terraform](#zerotier-terraform)
+- [ZeroTier Kubernetes](#zerotier-kubernetes)
+- [ZeroTier Docker](#zerotier-docker)
+- [ZeroTier Bridging](#zerotier-bridging)
+- [ZeroTier MikroTik](#zerotier-mikrotik)
+- [ZeroTier Ubiquiti](#zerotier-ubiquiti)
+- [ZeroTier Teltonika](#zerotier-teltonika)
+- [ZeroTier OpenWrt](#zerotier-openwrt)
+- [ZeroTier OPNSense](#zerotier-opnsense)
+- [ZeroTier pfSense](#zerotier-pfsense)
+- [ZeroTier Synology](#zerotier-synology)
+- [ZeroTier Raspberry Pi](#zerotier-raspberry-pi)
+- [ZeroTier Homelab](#zerotier-homelab)
+- [ZeroTier Home Automation](#zerotier-home-automation)
+- [ZeroTier Video/Camera/CCTV](#zerotier-videocameracctv)
+- [ZeroTier EVE-NG](#zerotier-eve-ng)
+- [ZeroTier Gaming](#zerotier-gaming)
+- [ZeroTier Everything Else](#zerotier-everything-else)
+- [ZeroTier Reddit](#zerotier-reddit)
 
 
+## Self Hosting
 
-## ZeroTier Self-Hosted Controller 
-
+#### Self-Hosted Network Controller Interfaces
 - [key-networks / ztncui](https://github.com/key-networks/ztncui) - GUI for self-hosted ZeroTier.
 - [thedunston / bash_cli_zt](https://github.com/thedunston/bash_cli_zt) - Command Line interface for self-hosted ZeroTier.
 - [dec0dOS / zero-ui](https://github.com/dec0dOS/zero-ui) - GUI for self-hosted ZeroTier.
-
 - [mdplusplus/zerotier-network-controller-ui](https://hub.docker.com/r/mdplusplus/zerotier-network-controller-ui) - Docker image for self-hosted ZeroTier.
 
 #### Self-Hosted articles
@@ -306,7 +335,7 @@ found on The Internet. Feel free to add yours!
 - [leonardodino / wc3proxy](https://github.com/leonardodino/wc3proxy) 
 
 
-## Reddit
+## ZeroTier Reddit
 - [r/zerotier](https://www.reddit.com/r/zerotier/)
 - [r/homelab](http://reddit.com/r/homelab)
 
