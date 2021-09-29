@@ -16,18 +16,18 @@ found on The Internet. Feel free to add yours!
 
 ## ZeroTier Self-Hosted Controller 
 
-- [key-networks / ztncui](https://github.com/key-networks/ztncui) GUI for self-hosted ZeroTier
-- [thedunston / bash_cli_zt](https://github.com/thedunston/bash_cli_zt) Command Line interface for self-hosted ZeroTier
-- [dec0dOS / zero-ui](https://github.com/dec0dOS/zero-ui) GUI for self-hosted ZeroTier
+- [key-networks / ztncui](https://github.com/key-networks/ztncui) - GUI for self-hosted ZeroTier.
+- [thedunston / bash_cli_zt](https://github.com/thedunston/bash_cli_zt) - Command Line interface for self-hosted ZeroTier.
+- [dec0dOS / zero-ui](https://github.com/dec0dOS/zero-ui) - GUI for self-hosted ZeroTier.
 
-- [mdplusplus/zerotier-network-controller-ui](https://hub.docker.com/r/mdplusplus/zerotier-network-controller-ui) Docker image for self-hosted ZeroTier
+- [mdplusplus/zerotier-network-controller-ui](https://hub.docker.com/r/mdplusplus/zerotier-network-controller-ui) - Docker image for self-hosted ZeroTier.
 
 #### Self-Hosted articles
-- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) Self-hosted ZeroTier on OPNSense 
-- [From zero to Zerotier in k3s way](https://medium.com/iotops/from-zero-to-zerotier-in-k3s-way-eadff5745566) Self-hosted ZeroTier on a Raspberry Pi, using k3s 
+- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNSense.
+- [From zero to Zerotier in k3s way](https://medium.com/iotops/from-zero-to-zerotier-in-k3s-way-eadff5745566) - Self-hosted ZeroTier on a Raspberry Pi, using k3s.
 
 #### Self-Hosted videos
-- [DB Tech - ZeroTier Network Controller in Docker](https://www.youtube.com/watch?v=oC7y_qYKUTU) Self-hosted ZeroTier on Docker
+- [DB Tech - ZeroTier Network Controller in Docker](https://www.youtube.com/watch?v=oC7y_qYKUTU) - Self-hosted ZeroTier on Docker.
 
 
 ## ZeroTier Networking
@@ -36,7 +36,7 @@ found on The Internet. Feel free to add yours!
 - [Building a Private Backplane Network for your VPSs with ZeroTier | Pete Keen](https://www.petekeen.net/building-a-private-backplane-network-with-zerotier)
 - [Creating Secure Private Networks With ZeroTier VPN](https://dzone.com/articles/creating-secure-private-networks-with-zerotier-vpn)
 - [Creating a Site-to-Site VPN with ZeroTier and BGP](https://www.linkedin.com/pulse/creating-site-to-site-vpn-zerotier-bgp-robert-lynch/)
-- [Routing traffic to ZeroTier’s subnet from all devices on the LAN](https://chrisatech.wordpress.com/2021/02/22/routing-traffic-to-zerotiers-subnet-from-all-devices-on-the-lan/)
+- [Routing traffic to ZeroTier's subnet from all devices on the LAN](https://chrisatech.wordpress.com/2021/02/22/routing-traffic-to-zerotiers-subnet-from-all-devices-on-the-lan/)
 
 #### Networking videos
 - [Considered Normal? - Creating a Local LAN with ZeroTier](https://www.youtube.com/watch?v=Af758HL6VkA) 
@@ -180,7 +180,7 @@ found on The Internet. Feel free to add yours!
 ## ZeroTier MikroTik
 
 #### MikroTik videos global
-- [Zerotier Mikrotik - VPNs Gratis!!](https://www.youtube.com/watch?v=DX6Ka3aV7Ck)
+- [Zerotier Mikrotik - VPNs Gratis!](https://www.youtube.com/watch?v=DX6Ka3aV7Ck)
 - [Fitur ZeroTier pada RouterOS v7 MikroTik [Live Streaming]](https://www.youtube.com/watch?v=iubEUjmKZms) 
 
 
@@ -222,7 +222,7 @@ found on The Internet. Feel free to add yours!
 ## ZeroTier OPNSense
 
 #### OPNSense articles
-- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) Self-hosted ZeroTier on OPNSense
+- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNSense.
 - [Gateway IT Tutorials - OPNSense: ZeroTier Installation and configuration (site-to-site connection)](https://www.youtube.com/watch?v=JQfjFqoVePg) 
 
 
@@ -302,7 +302,7 @@ found on The Internet. Feel free to add yours!
 
 ## ZeroTier Everything Else
 
-- [airman604 / discord-zerotier-bot](https://github.com/airman604/discord-zerotier-bot) ZeroTier Discord bot
+- [airman604 / discord-zerotier-bot](https://github.com/airman604/discord-zerotier-bot) - ZeroTier Discord bot.
 - [leonardodino / wc3proxy](https://github.com/leonardodino/wc3proxy) 
 
 
