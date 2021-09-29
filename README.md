@@ -1,3 +1,7 @@
+<a href="https://awesome.re">
+    <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+</a>
+
 # A List of Awesome ZeroTier Things
 
 Hello!
@@ -6,6 +10,7 @@ This repository contains a list of all things ZeroTier that can be
 found on The Internet. Feel free to add yours!
 
 [Pull Requests](https://github.com/zerotier/awesome-zerotier/edit/main/README.md) accepted!
+
 
 
 
