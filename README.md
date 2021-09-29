@@ -82,9 +82,7 @@ found on The Internet. Feel free to add yours!
 - [Usando ZeroTier One y NextDNS para acceder a tus datos por VPN](https://blog.ayudait.eu/2020/11/usando-zerotier-one-y-nextdns.html)
 - [NASeros - Incorporación de un ordenador a ZeroTier](https://www.youtube.com/watch?v=ZtXhZCkxaak) 
 - [Servicios Virtuales Administrados SVA - Multi Usuario RDP/VPN ZeroTier -- CURSO GRATUITO](https://www.youtube.com/watch?v=z8N1NeYORbM)
-
-- [Zerotier: La Terra è il tuo ufficio (Sicuro and privato](https://www.youtube.com/watch?v=LHilEAF5S2U&t)
-
+- [Zerotier: la Terra è il tuo ufficio (sicuro e privato)](https://www.youtube.com/watch?v=LHilEAF5S2U&t)
 - [Software Defined Networks with ZeroTier | Urdu](https://www.youtube.com/watch?v=Pk5EXqNLFzA&t=1s)
 
 
