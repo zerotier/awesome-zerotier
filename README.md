@@ -1,3 +1,7 @@
+<a href="https://awesome.re">
+    <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+</a>
+
 # A List of Awesome ZeroTier Things
 
 Hello!
@@ -7,22 +11,52 @@ found on The Internet. Feel free to add yours!
 
 [Pull Requests](https://github.com/zerotier/awesome-zerotier/edit/main/README.md) accepted!
 
+## Contents
+- [Self Hosting](#self-hosting)
+- [ZeroTier Networking](#zerotier-networking)
+- [ZeroTier Linux](#zerotier-linux)
+- [ZeroTier Remote Access](#zerotier-remote-access)
+- [ZeroTier SD-WAN](#zerotier-sd-wan)
+- [ZeroTier IoT](#zerotier-iot)
+- [ZeroTier Drone/UAV](#zerotier-droneuav)
+- [ZeroTier Automotive](#zerotier-automotive)
+- [ZeroTier Blockchain/Crypto](#zerotier-blockchaincrypto)
+- [ZeroTier Infosec](#zerotier-infosec)
+- [ZeroTier Terraform](#zerotier-terraform)
+- [ZeroTier Kubernetes](#zerotier-kubernetes)
+- [ZeroTier Docker](#zerotier-docker)
+- [ZeroTier Bridging](#zerotier-bridging)
+- [ZeroTier MikroTik](#zerotier-mikrotik)
+- [ZeroTier Ubiquiti](#zerotier-ubiquiti)
+- [ZeroTier Teltonika](#zerotier-teltonika)
+- [ZeroTier OpenWrt](#zerotier-openwrt)
+- [ZeroTier OPNSense](#zerotier-opnsense)
+- [ZeroTier pfSense](#zerotier-pfsense)
+- [ZeroTier Synology](#zerotier-synology)
+- [ZeroTier Raspberry Pi](#zerotier-raspberry-pi)
+- [ZeroTier Homelab](#zerotier-homelab)
+- [ZeroTier Home Automation](#zerotier-home-automation)
+- [ZeroTier Video/Camera/CCTV](#zerotier-videocameracctv)
+- [ZeroTier EVE-NG](#zerotier-eve-ng)
+- [ZeroTier Gaming](#zerotier-gaming)
+- [ZeroTier Everything Else](#zerotier-everything-else)
+- [ZeroTier Reddit](#zerotier-reddit)
 
 
-## ZeroTier Self-Hosted Controller 
+## Self Hosting
 
-- [key-networks / ztncui](https://github.com/key-networks/ztncui) GUI for self-hosted ZeroTier
-- [thedunston / bash_cli_zt](https://github.com/thedunston/bash_cli_zt) Command Line interface for self-hosted ZeroTier
-- [dec0dOS / zero-ui](https://github.com/dec0dOS/zero-ui) GUI for self-hosted ZeroTier
-
-- [mdplusplus/zerotier-network-controller-ui](https://hub.docker.com/r/mdplusplus/zerotier-network-controller-ui) Docker image for self-hosted ZeroTier
+#### Self-Hosted Network Controller Interfaces
+- [key-networks / ztncui](https://github.com/key-networks/ztncui) - GUI for self-hosted ZeroTier.
+- [thedunston / bash_cli_zt](https://github.com/thedunston/bash_cli_zt) - Command Line interface for self-hosted ZeroTier.
+- [dec0dOS / zero-ui](https://github.com/dec0dOS/zero-ui) - GUI for self-hosted ZeroTier.
+- [mdplusplus/zerotier-network-controller-ui](https://hub.docker.com/r/mdplusplus/zerotier-network-controller-ui) - Docker image for self-hosted ZeroTier.
 
 #### Self-Hosted articles
-- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) Self-hosted ZeroTier on OPNSense 
-- [From zero to Zerotier in k3s way](https://medium.com/iotops/from-zero-to-zerotier-in-k3s-way-eadff5745566) Self-hosted ZeroTier on a Raspberry Pi, using k3s 
+- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNSense.
+- [From zero to Zerotier in k3s way](https://medium.com/iotops/from-zero-to-zerotier-in-k3s-way-eadff5745566) - Self-hosted ZeroTier on a Raspberry Pi, using k3s.
 
 #### Self-Hosted videos
-- [DB Tech - ZeroTier Network Controller in Docker](https://www.youtube.com/watch?v=oC7y_qYKUTU) Self-hosted ZeroTier on Docker
+- [DB Tech - ZeroTier Network Controller in Docker](https://www.youtube.com/watch?v=oC7y_qYKUTU) - Self-hosted ZeroTier on Docker.
 
 
 ## ZeroTier Networking
@@ -31,7 +65,7 @@ found on The Internet. Feel free to add yours!
 - [Building a Private Backplane Network for your VPSs with ZeroTier | Pete Keen](https://www.petekeen.net/building-a-private-backplane-network-with-zerotier)
 - [Creating Secure Private Networks With ZeroTier VPN](https://dzone.com/articles/creating-secure-private-networks-with-zerotier-vpn)
 - [Creating a Site-to-Site VPN with ZeroTier and BGP](https://www.linkedin.com/pulse/creating-site-to-site-vpn-zerotier-bgp-robert-lynch/)
-- [Routing traffic to ZeroTier’s subnet from all devices on the LAN](https://chrisatech.wordpress.com/2021/02/22/routing-traffic-to-zerotiers-subnet-from-all-devices-on-the-lan/)
+- [Routing traffic to ZeroTier's subnet from all devices on the LAN](https://chrisatech.wordpress.com/2021/02/22/routing-traffic-to-zerotiers-subnet-from-all-devices-on-the-lan/)
 
 #### Networking videos
 - [Considered Normal? - Creating a Local LAN with ZeroTier](https://www.youtube.com/watch?v=Af758HL6VkA) 
@@ -48,9 +82,7 @@ found on The Internet. Feel free to add yours!
 - [Usando ZeroTier One y NextDNS para acceder a tus datos por VPN](https://blog.ayudait.eu/2020/11/usando-zerotier-one-y-nextdns.html)
 - [NASeros - Incorporación de un ordenador a ZeroTier](https://www.youtube.com/watch?v=ZtXhZCkxaak) 
 - [Servicios Virtuales Administrados SVA - Multi Usuario RDP/VPN ZeroTier -- CURSO GRATUITO](https://www.youtube.com/watch?v=z8N1NeYORbM)
-
-- [Zerotier: La Terra è il tuo ufficio (Sicuro and privato](https://www.youtube.com/watch?v=LHilEAF5S2U&t)
-
+- [Zerotier: la Terra è il tuo ufficio (sicuro e privato)](https://www.youtube.com/watch?v=LHilEAF5S2U&t)
 - [Software Defined Networks with ZeroTier | Urdu](https://www.youtube.com/watch?v=Pk5EXqNLFzA&t=1s)
 
 
@@ -175,7 +207,7 @@ found on The Internet. Feel free to add yours!
 ## ZeroTier MikroTik
 
 #### MikroTik videos global
-- [Zerotier Mikrotik - VPNs Gratis!!](https://www.youtube.com/watch?v=DX6Ka3aV7Ck)
+- [Zerotier Mikrotik - VPNs Gratis!](https://www.youtube.com/watch?v=DX6Ka3aV7Ck)
 - [Fitur ZeroTier pada RouterOS v7 MikroTik [Live Streaming]](https://www.youtube.com/watch?v=iubEUjmKZms) 
 
 
@@ -217,7 +249,7 @@ found on The Internet. Feel free to add yours!
 ## ZeroTier OPNSense
 
 #### OPNSense articles
-- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) Self-hosted ZeroTier on OPNSense
+- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNSense.
 - [Gateway IT Tutorials - OPNSense: ZeroTier Installation and configuration (site-to-site connection)](https://www.youtube.com/watch?v=JQfjFqoVePg) 
 
 
@@ -297,11 +329,11 @@ found on The Internet. Feel free to add yours!
 
 ## ZeroTier Everything Else
 
-- [airman604 / discord-zerotier-bot](https://github.com/airman604/discord-zerotier-bot) ZeroTier Discord bot
+- [airman604 / discord-zerotier-bot](https://github.com/airman604/discord-zerotier-bot) - ZeroTier Discord bot.
 - [leonardodino / wc3proxy](https://github.com/leonardodino/wc3proxy) 
 
 
-## Reddit
+## ZeroTier Reddit
 - [r/zerotier](https://www.reddit.com/r/zerotier/)
 - [r/homelab](http://reddit.com/r/homelab)
 
