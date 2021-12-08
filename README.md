@@ -19,6 +19,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier SD-WAN](#zerotier-sd-wan)
 - [ZeroTier IoT](#zerotier-iot)
 - [ZeroTier Drone/UAV](#zerotier-droneuav)
+- [ZeroTier Robotics](#zerotier-robotics)
 - [ZeroTier Automotive](#zerotier-automotive)
 - [ZeroTier Blockchain/Crypto](#zerotier-blockchaincrypto)
 - [ZeroTier Infosec](#zerotier-infosec)
@@ -65,10 +66,16 @@ found on The Internet. Feel free to add yours!
 - [Building a Private Backplane Network for your VPSs with ZeroTier | Pete Keen](https://www.petekeen.net/building-a-private-backplane-network-with-zerotier)
 - [Creating Secure Private Networks With ZeroTier VPN](https://dzone.com/articles/creating-secure-private-networks-with-zerotier-vpn)
 - [Creating a Site-to-Site VPN with ZeroTier and BGP](https://www.linkedin.com/pulse/creating-site-to-site-vpn-zerotier-bgp-robert-lynch/)
+- [Network Modeling: Segmented Lab access with Containerlab and ZeroTier](https://stubarea51.net/2021/11/23/network-modeling-segmented-lab-access-with-containerlab-and-zerotier)
 - [Routing traffic to ZeroTier's subnet from all devices on the LAN](https://chrisatech.wordpress.com/2021/02/22/routing-traffic-to-zerotiers-subnet-from-all-devices-on-the-lan/)
+
+#### Networking articles global
+- [ZeroTier | Δικτύωση απομακρυσμένων Linux, Windows, macOS, BSD, Android, iOS συσκευών](https://cerebrux.net/2021/10/24/zerotier-%ce%b4%ce%b9%ce%ba%cf%84%cf%8d%cf%89%cf%83%ce%b7-%ce%b1%cf%80%ce%bf%ce%bc%ce%b1%ce%ba%cf%81%cf%85%cf%83%ce%bc%ce%ad%ce%bd%cf%89%ce%bd-%cf%83%cf%85%cf%83%ce%ba%ce%b5%cf%85%cf%8e%ce%bd/)
 
 #### Networking videos
 - [Considered Normal? - Creating a Local LAN with ZeroTier](https://www.youtube.com/watch?v=Af758HL6VkA) 
+- [Duane Dunston - Private ZeroTier Network on the Public Internet](https://www.youtube.com/watch?v=xp2ujXe1SOU)
+- [Duane Dunston - ZeroTier Hub and Spoke](https://www.youtube.com/watch?v=Fb65bU3oyEo)
 - [Eric Sloof - ZeroTier - The ethernet switch for planet earth](https://www.youtube.com/watch?v=XrLk21Xy2i0) 
 - [infoTK - Finally ! work from home using VPN free and without Public IP](https://www.youtube.com/watch?v=JwGKi3UWJ_I) 
 - [MRP - Local Network everywhere - Zero Tier : Global Area Networking](https://www.youtube.com/watch?v=eI-yxrMH3uY) 
@@ -79,6 +86,7 @@ found on The Internet. Feel free to add yours!
 - [Sheridan Computers - ZeroTier | Virtual Networking | Remote Desktop | Remote Working | VPN](https://www.youtube.com/watch?v=1Sobvh6OiC8) 
 
 #### Networking videos global
+- [ADINATA - ZeroTier Solusi Remote Perangkat Aman Dan Nyaman Untuk Pengguna Internet Broadband Dan Dedicated](https://www.youtube.com/watch?v=7tN9iw7FIo4)
 - [Usando ZeroTier One y NextDNS para acceder a tus datos por VPN](https://blog.ayudait.eu/2020/11/usando-zerotier-one-y-nextdns.html)
 - [NASeros - Incorporación de un ordenador a ZeroTier](https://www.youtube.com/watch?v=ZtXhZCkxaak) 
 - [Servicios Virtuales Administrados SVA - Multi Usuario RDP/VPN ZeroTier -- CURSO GRATUITO](https://www.youtube.com/watch?v=z8N1NeYORbM)
@@ -118,8 +126,9 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier on OpenWrt (VPN + SD-WAN)](https://foro.seguridadwireless.net/openwrt/vpn-con-zerotier-en-openwrt/)
 
 #### SD-WAN videos
-- [SecurityGuy - Hands-on with ZeroTier SD-WAN for Cloud Connectivity](https://www.youtube.com/watch?v=pntbQBtneZg) 
 - [Profitap HQ B.V - How to Connect IOTA to ZeroTier SD-WAN environment](https://www.youtube.com/watch?v=dn8rFCttJVg) 
+- [SecurityGuy - Hands-on with ZeroTier SD-WAN for Cloud Connectivity](https://www.youtube.com/watch?v=pntbQBtneZg) 
+
 
 #### SD-WAN videos global
 - [LACNIC RIR - ZeroTier - Usando una solución Open Source para integrar VPNs e iniciar operaciones SD-WAN](https://www.youtube.com/watch?v=pM2ZQ9trcM8)
@@ -144,6 +153,12 @@ found on The Internet. Feel free to add yours!
 - [VPNs, Cliff Bars, and a Delivery Drone](https://intellitect.com/delivery-drone/)
 
 
+## ZeroTier Robotics
+
+#### Robotics articles
+- [Telepresent Operation](https://hackaday.io/project/181888-omni/log/198193-telepresent-operation)
+
+
 ## ZeroTier Automotive
 
 #### Automotive articles
@@ -156,6 +171,7 @@ found on The Internet. Feel free to add yours!
 
 #### Blockchain/Crypto articles
 - [bitcoin-tutorials Set up the RaspiBlitz for remote connections with ZeroTier](https://openoms.github.io/bitcoin-tutorials/zerotier/)
+- [HOW TO INSTALL CARDANO STAKING POOL ON A PI 4B](https://www.drokdev.pro/blog/how-to-install-cardano-staking-pool-on-a-pi-4b/)
 - [[HOWTO] Remote plotting and farming over the internet, Ubuntu edition](https://chiaforum.com/t/howto-remote-plotting-and-farming-over-the-internet-ubuntu-edition/11507)
 - [Spinning up a Tezos blockchain with Kubernetes (k8s)](https://medium.com/tqtezos/spinning-up-a-tezos-blockchain-with-kubernetes-k8s-7107e2a257a0)
 
@@ -186,9 +202,16 @@ found on The Internet. Feel free to add yours!
 
 #### Kubernetes articles
 - [Setting up self-hosted Kubernetes](https://fredrik.space/posts/self-hosted-kubernetes/)
+- [Kubernetes Zerotier Bridge](https://www.opensourceagenda.com/projects/kubernetes-zerotier-bridge)
+
+#### Kubernetes articles global
+- [Mise en oeuvre d’un cluster Kubernetes dans une instance AMD EPYC de Scaleway via Rancher et Multipass : introduction au No-Ops avec DevSpace …](https://deep75.medium.com/mise-en-oeuvre-dun-cluster-kubernetes-dans-une-instance-amd-epyc-de-scaleway-via-rancher-et-7372a3fc22a6)
 
 
 ## ZeroTier Docker
+
+#### Docker articles
+- [Self-host your own SOCKS5 Proxy Server with Docker](https://www.simplecto.com/self-host-socks5-proxy-server-with-docker/)
 
 #### Docker videos
 - [DB Tech - ZeroTier Network Controller in Docker](https://www.youtube.com/watch?v=oC7y_qYKUTU)
@@ -203,12 +226,20 @@ found on The Internet. Feel free to add yours!
 - [Using Synology as a ZeroTier Bridge](http://www.homeops.tech/2020/07/15/Zero-Tier-On-Synology/)
 - [Zerotier bridge to WiFi Router](https://linustechtips.com/topic/1181940-zerotier-bridge-to-wifi-router/)
 
+#### Bridging videos global
+- [Zerotier como bridge con una sola interface de red Ubuntu 20.04.3](https://www.youtube.com/watch?v=pzsJB40F_tk)
+
 
 ## ZeroTier MikroTik
 
+#### MikroTik videos
+- [MikroTik - MikroTik RouterOS v7 is finally here!](https://youtu.be/Zp-U7Anv5-0?t=287)
+- [The Network Berg - Testing out the Ethernet Switch of the Planet! ZeroTier ft. MikroTik!](https://www.youtube.com/watch?v=eFI59jJ2MM8)
+
 #### MikroTik videos global
-- [Zerotier Mikrotik - VPNs Gratis!](https://www.youtube.com/watch?v=DX6Ka3aV7Ck)
 - [Fitur ZeroTier pada RouterOS v7 MikroTik [Live Streaming]](https://www.youtube.com/watch?v=iubEUjmKZms) 
+- [VPN MikroTik ZeroTier RouterOS v7 Atras CGNAT | Leonardo Vieira](https://www.youtube.com/watch?v=cE-UIyerQPg)
+- [Zerotier Mikrotik - VPNs Gratis!](https://www.youtube.com/watch?v=DX6Ka3aV7Ck)
 
 
 ## ZeroTier Ubiquiti
@@ -238,19 +269,21 @@ found on The Internet. Feel free to add yours!
 - [mwarning / zerotier-openwrt](https://github.com/mwarning/zerotier-openwrt)
 
 #### OpenWrt articles
+- [How to remote access Openwrt router over the internet using Zerotier | 2021](https://www.youtube.com/watch?v=dTmp7rY4wHc)
 - [Set Up a ZeroTier Network on OpenWRT](https://kysonlok.github.io/2020/06/12/Set-Up-a-ZeroTier-Network-on-OpenWRT/)
 - [ZeroTier on OpenWrt (VPN + SD-WAN)](https://foro.seguridadwireless.net/openwrt/vpn-con-zerotier-en-openwrt/)
-- [How to remote access Openwrt router over the internet using Zerotier | 2021](https://www.youtube.com/watch?v=dTmp7rY4wHc)
+
 
 #### OpenWrt videos global
+- [PABALATAK - CARA MEMBUAT ZEROTIER UNTUK REMOTE OPENWRT DI LUAR JARINGAN](https://www.youtube.com/watch?v=Cfy8xOxW-34)
 - [💻 Configurar ZeroTier en OpenWRT para acceso remoto ⚡ GRATIS](https://www.youtube.com/watch?v=AFzKJJgJJNk)
 
 
 ## ZeroTier OPNSense
 
 #### OPNSense articles
-- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNSense.
 - [Gateway IT Tutorials - OPNSense: ZeroTier Installation and configuration (site-to-site connection)](https://www.youtube.com/watch?v=JQfjFqoVePg) 
+- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNSense.
 
 
 ## ZeroTier pfSense
@@ -264,9 +297,12 @@ found on The Internet. Feel free to add yours!
 #### Synology articles
 - [Using Synology as a ZeroTier Bridge](http://www.homeops.tech/2020/07/15/Zero-Tier-On-Synology/)
 
+#### Synology articles global
+- [VPN zwischen zwei Synology NAS mit Zerotier](https://techbox.rocks/vpn-zwischen-zwei-synology-nas-mit-zerotier/)
+
 #### Synology videos
 - [Nick Bodmer - Backup your Synology to any remote site, no network configuration with ZeroTier!](https://www.youtube.com/watch?v=NB5CQcw1qmg) 
-- [Quik Tech Solutions L.L.C - Use ZeroTier to Access Synology](https://www.youtube.com/watch?v=BTm0HyZCv3I) 
+- [Quik Tech Solutions L.L.C - Use ZeroTier to Access Synology](https://www.youtube.com/watch?v=BTm0HyZCv3I)
 
 
 ## ZeroTier Raspberry Pi
@@ -287,8 +323,13 @@ found on The Internet. Feel free to add yours!
 ## ZeroTier Homelab
 
 #### Homelab articles
+- [Remote connecting to my VMware homelab - ZeroTier](https://jgautierit.github.io/post/remote-connecting-to-my-homelab/)
 - [Switching from KeePass to Bitwarden after 14 years](https://trycatch.dev/blog/switching-from-keepass-to-bitwarden-after-14-years/)
 - [ZeroTier in my homelab](https://darkcloud.dk/2020/02/05/ZeroTier-in-the-homelab/)
+
+
+#### Homelab articles global
+- [Обзор ZeroTier. VPN и SD-WAN в одном флаконе](https://blog.themarfa.name/obzor-zerotier-vpn-i-sd-wan-v-odnom-flakonie/)
 
 
 ## ZeroTier Home Automation
@@ -297,6 +338,7 @@ found on The Internet. Feel free to add yours!
 
 #### Home Automation videos
 - [Franck Nijhof - ZeroTier add-on for Home Assistant](https://www.youtube.com/watch?v=uDIShhlJhqw) 
+- [Sauber-Lab UK - Let's install ZeroTier in Home Assistant](https://www.youtube.com/watch?v=iubmZ3rXWEU)
 
 
 ## ZeroTier Video/Camera/CCTV
@@ -317,6 +359,8 @@ found on The Internet. Feel free to add yours!
 
 - [moonlight-stream / moonlight-docs](https://github.com/moonlight-stream/moonlight-docs/wiki/Setup-Guide) 
 - [ecalder6 / azure-gaming](https://github.com/ecalder6/azure-gaming)
+- [alvr-org / ALVR](https://github.com/alvr-org/ALVR/wiki/ALVR-client-and-server-on-separate-networks)
+- [diasurgical / devilutionX](https://github.com/diasurgical/devilutionX)
 
 #### Gaming videos
 - [Arkham Knight - ZeroTier LAN Coop gaming (Tunngle Alternative,Peer to Peer Network ) 2020 multiplayer gaming](https://www.youtube.com/watch?v=WIxpVHf4ic8) 
@@ -329,12 +373,23 @@ found on The Internet. Feel free to add yours!
 
 ## ZeroTier Everything Else
 
-- [airman604 / discord-zerotier-bot](https://github.com/airman604/discord-zerotier-bot) - ZeroTier Discord bot.
-- [leonardodino / wc3proxy](https://github.com/leonardodino/wc3proxy) 
+- [airman604 / discord-zerotier-bot](https://github.com/airman604/discord-zerotier-bot)
+- [leonardodino / wc3proxy](https://github.com/leonardodino/wc3proxy)
+
+#### Everything Else articles
+- [Self built moon root server of zerotier for Linux / VPS](https://cdmana.com/2021/10/20211020200010977x.html)
 
 
 ## ZeroTier Reddit
 - [r/zerotier](https://www.reddit.com/r/zerotier/)
 - [r/homelab](http://reddit.com/r/homelab)
+
+
+## ZeroTier YouTube
+- [ZeroTierOffficial YouTube Channel](https://www.youtube.com/channel/UCCN_ehU18m2MXqocbItxTUQ/featured)
+- [Most Recent Community-Created ZeroTier Videos](https://www.youtube.com/results?search_query=zerotier&sp=CAI%253D)
+
+
+
 
 
