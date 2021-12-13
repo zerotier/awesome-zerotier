@@ -12,7 +12,7 @@ found on The Internet. Feel free to add yours!
 [Pull Requests](https://github.com/zerotier/awesome-zerotier/edit/main/README.md) accepted!
 
 ## Contents
-- [Self Hosting](#self-hosting)
+- [Self-Hosting](#self-hosting)
 - [ZeroTier Networking](#zerotier-networking)
 - [ZeroTier Linux](#zerotier-linux)
 - [ZeroTier Remote Access](#zerotier-remote-access)
@@ -31,10 +31,11 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier Ubiquiti](#zerotier-ubiquiti)
 - [ZeroTier Teltonika](#zerotier-teltonika)
 - [ZeroTier OpenWrt](#zerotier-openwrt)
-- [ZeroTier OPNSense](#zerotier-opnsense)
+- [ZeroTier OPNsense](#zerotier-opnsense)
 - [ZeroTier pfSense](#zerotier-pfsense)
 - [ZeroTier Synology](#zerotier-synology)
 - [ZeroTier Raspberry Pi](#zerotier-raspberry-pi)
+- [ZeroTier 3-D Printing](#zerotier-3-d-printing)
 - [ZeroTier Homelab](#zerotier-homelab)
 - [ZeroTier Home Automation](#zerotier-home-automation)
 - [ZeroTier Video/Camera/CCTV](#zerotier-videocameracctv)
@@ -42,6 +43,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier Gaming](#zerotier-gaming)
 - [ZeroTier Everything Else](#zerotier-everything-else)
 - [ZeroTier Reddit](#zerotier-reddit)
+- [ZeroTier YouTube](#zerotier-youtube)
 
 
 ## Self Hosting
@@ -53,7 +55,7 @@ found on The Internet. Feel free to add yours!
 - [mdplusplus/zerotier-network-controller-ui](https://hub.docker.com/r/mdplusplus/zerotier-network-controller-ui) - Docker image for self-hosted ZeroTier.
 
 #### Self-Hosted articles
-- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNSense.
+- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNsense.
 - [From zero to Zerotier in k3s way](https://medium.com/iotops/from-zero-to-zerotier-in-k3s-way-eadff5745566) - Self-hosted ZeroTier on a Raspberry Pi, using k3s.
 
 #### Self-Hosted videos
@@ -70,6 +72,7 @@ found on The Internet. Feel free to add yours!
 - [Routing traffic to ZeroTier's subnet from all devices on the LAN](https://chrisatech.wordpress.com/2021/02/22/routing-traffic-to-zerotiers-subnet-from-all-devices-on-the-lan/)
 
 #### Networking articles global
+- [比frp更好用的内网穿透工具-ZeroTier One](https://jiayaoo3o.github.io/2020/06/11/%E6%AF%94frp%E6%9B%B4%E5%A5%BD%E7%94%A8%E7%9A%84%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E5%B7%A5%E5%85%B7-ZeroTier%20One/#more)
 - [ZeroTier | Δικτύωση απομακρυσμένων Linux, Windows, macOS, BSD, Android, iOS συσκευών](https://cerebrux.net/2021/10/24/zerotier-%ce%b4%ce%b9%ce%ba%cf%84%cf%8d%cf%89%cf%83%ce%b7-%ce%b1%cf%80%ce%bf%ce%bc%ce%b1%ce%ba%cf%81%cf%85%cf%83%ce%bc%ce%ad%ce%bd%cf%89%ce%bd-%cf%83%cf%85%cf%83%ce%ba%ce%b5%cf%85%cf%8e%ce%bd/)
 
 #### Networking videos
@@ -95,6 +98,8 @@ found on The Internet. Feel free to add yours!
 
 
 ## ZeroTier Linux 
+
+- [Duoslow / zerotierIndicator](https://github.com/Duoslow/zerotierIndicator)
 
 #### Linux articles
 - [Curl and jq to Manage ZeroTier networks](https://www.simplecto.com/zerotier-jq-manage-zerotier-networks/)
@@ -168,6 +173,7 @@ found on The Internet. Feel free to add yours!
 ## ZeroTier Blockchain/Crypto
 
 - [transumption / holo-router](https://github.com/transumption/holo-router)
+- [oxheadalpha / tezos-k8s](https://github.com/oxheadalpha/tezos-k8s)
 
 #### Blockchain/Crypto articles
 - [bitcoin-tutorials Set up the RaspiBlitz for remote connections with ZeroTier](https://openoms.github.io/bitcoin-tutorials/zerotier/)
@@ -232,9 +238,13 @@ found on The Internet. Feel free to add yours!
 
 ## ZeroTier MikroTik
 
+#### MikroTik articles
+- [MikroTik’s RouterOS already supports ZeroTier to create SDN networks](https://itigic.com/mikrotiks-routeros-already-supports-zerotier/)
+
 #### MikroTik videos
 - [MikroTik - MikroTik RouterOS v7 is finally here!](https://youtu.be/Zp-U7Anv5-0?t=287)
 - [The Network Berg - Testing out the Ethernet Switch of the Planet! ZeroTier ft. MikroTik!](https://www.youtube.com/watch?v=eFI59jJ2MM8)
+- [ZeroTier Implementation on MikroTik - MIKROTIK TUTORIAL [ENG SUB]](https://www.youtube.com/watch?v=P37YRtsMKD0)
 
 #### MikroTik videos global
 - [Fitur ZeroTier pada RouterOS v7 MikroTik [Live Streaming]](https://www.youtube.com/watch?v=iubEUjmKZms) 
@@ -279,11 +289,11 @@ found on The Internet. Feel free to add yours!
 - [💻 Configurar ZeroTier en OpenWRT para acceso remoto ⚡ GRATIS](https://www.youtube.com/watch?v=AFzKJJgJJNk)
 
 
-## ZeroTier OPNSense
+## ZeroTier OPNsense
 
-#### OPNSense articles
-- [Gateway IT Tutorials - OPNSense: ZeroTier Installation and configuration (site-to-site connection)](https://www.youtube.com/watch?v=JQfjFqoVePg) 
-- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNSense.
+#### OPNsense articles
+- [Gateway IT Tutorials - OPNsense: ZeroTier Installation and configuration (site-to-site connection)](https://www.youtube.com/watch?v=JQfjFqoVePg) 
+- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNsense.
 
 
 ## ZeroTier pfSense
@@ -317,7 +327,13 @@ found on The Internet. Feel free to add yours!
 - [Lawrence Systems - How To Access a Raspberry Pi Running Kali Linux Anywhere with ZeroTier](https://www.youtube.com/watch?v=L3KIhZxvQ5A) 
 - [Lawrence Systems - How to Use Kali Linux on Raspberry Pi 4 As a Remote Network Access and NMAP Discovery Audit Tool](https://www.youtube.com/watch?v=ksTHrJBihLM) 
 - [PcMac - Pihole on Raspberry Pi Docker | Network Wide Ad blocking](https://www.youtube.com/watch?v=HT4Eu57kZt0) 
-- [QRQcw - Raspberry PI 4 - ZeroTier Virtual Network - RTSP Server for multiple CW OPs to QSO Morse Code Audio](https://www.youtube.com/watch?v=1aPxmegh6jQ) 
+- [QRQcw - Raspberry PI 4 - ZeroTier Virtual Network - RTSP Server for multiple CW OPs to QSO Morse Code Audio](https://www.youtube.com/watch?v=1aPxmegh6jQ)
+
+
+## ZeroTier 3-D Printing
+
+#### 3-D Printing articles
+- [Ultimate Guide to Octo4a](https://alche.thrideas.com/3d-printing/2021/10/10/ultimate-guide-to-octo4a.html)
 
 
 ## ZeroTier Homelab
