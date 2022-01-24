@@ -46,7 +46,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier YouTube](#zerotier-youtube)
 
 
-## Self Hosting
+## Self-Hosting
 
 #### Self-Hosted Network Controller Interfaces
 - [key-networks / ztncui](https://github.com/key-networks/ztncui) - GUI for self-hosted ZeroTier.
@@ -211,6 +211,7 @@ found on The Internet. Feel free to add yours!
 - [Kubernetes Zerotier Bridge](https://www.opensourceagenda.com/projects/kubernetes-zerotier-bridge)
 
 #### Kubernetes articles global
+<!--lint ignore match-punctuation-->
 - [Mise en oeuvre d’un cluster Kubernetes dans une instance AMD EPYC de Scaleway via Rancher et Multipass : introduction au No-Ops avec DevSpace …](https://deep75.medium.com/mise-en-oeuvre-dun-cluster-kubernetes-dans-une-instance-amd-epyc-de-scaleway-via-rancher-et-7372a3fc22a6)
 
 
@@ -239,7 +240,7 @@ found on The Internet. Feel free to add yours!
 ## ZeroTier MikroTik
 
 #### MikroTik articles
-- [MikroTik’s RouterOS already supports ZeroTier to create SDN networks](https://itigic.com/mikrotiks-routeros-already-supports-zerotier/)
+- [MikroTik's RouterOS already supports ZeroTier to create SDN networks](https://itigic.com/mikrotiks-routeros-already-supports-zerotier/)
 
 #### MikroTik videos
 - [MikroTik - MikroTik RouterOS v7 is finally here!](https://youtu.be/Zp-U7Anv5-0?t=287)
