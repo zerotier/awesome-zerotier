@@ -60,10 +60,13 @@ found on The Internet. Feel free to add yours!
 - [mdplusplus/zerotier-network-controller-ui](https://hub.docker.com/r/mdplusplus/zerotier-network-controller-ui) - Docker image for self-hosted ZeroTier.
 
 #### Self-Hosting articles
+<!--lint ignore double-link-->
 - [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNsense.
+<!--lint ignore double-link-->
 - [From zero to Zerotier in k3s way](https://medium.com/iotops/from-zero-to-zerotier-in-k3s-way-eadff5745566) - Self-hosted ZeroTier on a Raspberry Pi, using k3s.
 
 #### Self-Hosting videos
+<!--lint ignore double-link-->
 - [DB Tech - ZeroTier Network Controller in Docker](https://www.youtube.com/watch?v=oC7y_qYKUTU) - Self-hosted ZeroTier on Docker.
 
 
@@ -139,6 +142,7 @@ found on The Internet. Feel free to add yours!
 #### Remote Access videos
 - [Lawrence Systems - How To Work Remotely Using ZeroTier & Windows Remote Desktop (RDP)](https://www.youtube.com/watch?v=ZShna7v77xc)
 - [Odly Otter - Setting up ZeroTier to securely connect to your home server while roaming](https://www.youtube.com/watch?v=EgdFzxit_6M) 
+<!--lint ignore double-link-->
 - [Remote Access: Securely connect your devices over the internet with ZeroTier](https://www.youtube.com/watch?v=7C2AGnr9Q-w)
 - [The Cyber Mentor - Hack From Anywhere! - ZeroTier Remote Access](https://www.youtube.com/watch?v=bUOU8BW0IrM) 
 
@@ -147,7 +151,9 @@ found on The Internet. Feel free to add yours!
 
 #### SD-WAN articles
 - [A consumer-grade SD-WAN solution to improve mobile internet](https://www.linkedin.com/pulse/consumer-grade-sd-wan-solution-improve-mobile-jonathan-gearinger/)
+<!--lint ignore double-link-->
 - [How do I create a VPN/SD-WAN with Zerotier and Teltonika?](https://know.innon.com/vpn-zerotier-and-teltonika)
+<!--lint ignore double-link-->
 - [ZeroTier on OpenWrt (VPN + SD-WAN)](https://foro.seguridadwireless.net/openwrt/vpn-con-zerotier-en-openwrt/)
 
 #### SD-WAN videos
@@ -217,6 +223,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier for a Reliable and Private Security Monitoring Network](https://chrisapproved.com/blog/zerotier-reliable-security-monitoring.html)
 
 #### Infosec videos
+<!--lint ignore double-link-->
 - [Lawrence Systems - How to Use Kali Linux on Raspberry Pi 4 As a Remote Network Access and NMAP Discovery Audit Tool](https://www.youtube.com/watch?v=ksTHrJBihLM)
 - [Lawrence Systems - ZeroTier VS VPN and A Look At The Data Stream With Wireshark](https://www.youtube.com/watch?v=9Rfqi62bo5M)
 
@@ -251,6 +258,7 @@ found on The Internet. Feel free to add yours!
 - [Self-host your own SOCKS5 Proxy Server with Docker](https://www.simplecto.com/self-host-socks5-proxy-server-with-docker/)
 
 #### Docker videos
+<!--lint ignore double-link-->
 - [DB Tech - ZeroTier Network Controller in Docker](https://www.youtube.com/watch?v=oC7y_qYKUTU)
 
 #### Docker videos global
@@ -260,6 +268,7 @@ found on The Internet. Feel free to add yours!
 ## ZeroTier Bridging
 
 #### Bridging articles
+<!--lint ignore double-link-->
 - [Using Synology as a ZeroTier Bridge](http://www.homeops.tech/2020/07/15/Zero-Tier-On-Synology/)
 - [Zerotier bridge to WiFi Router](https://linustechtips.com/topic/1181940-zerotier-bridge-to-wifi-router/)
 
@@ -305,6 +314,7 @@ found on The Internet. Feel free to add yours!
 
 #### Teltonika articles
 - [Teltonika Wiki ZeroTier Configuration](https://wiki.teltonika-networks.com/view/ZeroTier_Configuration)
+<!--lint ignore double-link-->
 - [How do I create a VPN/SD-WAN with Zerotier and Teltonika?](https://know.innon.com/vpn-zerotier-and-teltonika)
 
 #### Teltonika articles global
@@ -320,6 +330,7 @@ found on The Internet. Feel free to add yours!
 #### OpenWrt articles
 - [How to remote access Openwrt router over the internet using Zerotier | 2021](https://www.youtube.com/watch?v=dTmp7rY4wHc)
 - [Set Up a ZeroTier Network on OpenWRT](https://kysonlok.github.io/2020/06/12/Set-Up-a-ZeroTier-Network-on-OpenWRT/)
+<!--lint ignore double-link-->
 - [ZeroTier on OpenWrt (VPN + SD-WAN)](https://foro.seguridadwireless.net/openwrt/vpn-con-zerotier-en-openwrt/)
 
 
@@ -332,6 +343,7 @@ found on The Internet. Feel free to add yours!
 
 #### OPNsense articles
 - [Gateway IT Tutorials - OPNsense: ZeroTier Installation and configuration (site-to-site connection)](https://www.youtube.com/watch?v=JQfjFqoVePg) 
+<!--lint ignore double-link-->
 - [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNsense.
 
 
@@ -345,6 +357,7 @@ found on The Internet. Feel free to add yours!
 
 #### Synology articles
 - [Upgrading to DSM7](https://www.unixdude.net/posts/2022/Jan/03/upgrading-to-dsm7/)
+<!--lint ignore double-link-->
 - [Using Synology as a ZeroTier Bridge](http://www.homeops.tech/2020/07/15/Zero-Tier-On-Synology/)
 
 #### Synology articles global
@@ -360,15 +373,18 @@ found on The Internet. Feel free to add yours!
 #### Raspberry Pi articles
 - [Connecting Raspberry Pi's to DigitalOcean with ZeroTier](https://www.danmanners.com/posts/p2-k3s-digitalocean-zerotier-and-more/)
 - [Setup a VPN using Zerotier and a Raspberry Pi](https://www.jamesleighton.com/2020/05/16/vpn-using-zerotier-and-a-raspberry-pi/)
+<!--lint ignore double-link-->
 - [From zero to Zerotier in k3s way](https://medium.com/iotops/from-zero-to-zerotier-in-k3s-way-eadff5745566)
 
 #### Raspberry Pi articles global
 - [Raspberry Pi 4Bで、VPN接続。](https://lifelog.tokoton0ch.com/post-403/)
 
 #### Raspberry Pi videos
+<!--lint ignore double-link-->
 - [Byte My Pi - Remote Access: Securely connect your devices over the internet with ZeroTier](https://www.youtube.com/watch?v=7C2AGnr9Q-w) 
 - [KPeyanski - Raspberry Pi into ZeroTier VPN (How-To)](https://www.youtube.com/watch?v=lFmeF5xoAPI) 
 - [Lawrence Systems - How To Access a Raspberry Pi Running Kali Linux Anywhere with ZeroTier](https://www.youtube.com/watch?v=L3KIhZxvQ5A) 
+<!--lint ignore double-link-->
 - [Lawrence Systems - How to Use Kali Linux on Raspberry Pi 4 As a Remote Network Access and NMAP Discovery Audit Tool](https://www.youtube.com/watch?v=ksTHrJBihLM) 
 - [PcMac - Pihole on Raspberry Pi Docker | Network Wide Ad blocking](https://www.youtube.com/watch?v=HT4Eu57kZt0) 
 - [QRQcw - Raspberry PI 4 - ZeroTier Virtual Network - RTSP Server for multiple CW OPs to QSO Morse Code Audio](https://www.youtube.com/watch?v=1aPxmegh6jQ)
