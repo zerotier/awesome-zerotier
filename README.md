@@ -306,7 +306,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier on a Ubiquiti EdgeRouter (part 2)](https://kruyt.org/zerotier-on-edgerouter-p2/)
 
 #### Ubiquiti articles global
-- [Unifi UDM Pro, ZT, encore...](https://www.canaletto.fr/post/unifi-udm-pro-encore)
+- [Unifi UDM Pro, ZT, encore…](https://www.canaletto.fr/post/unifi-udm-pro-encore)
 
 #### Ubiquiti videos
 - [Roel Van de Paar - Exposing LAN with ZeroTier when using Ubiquiti Edge Router X?](https://www.youtube.com/watch?v=F_EWh77-3g8) 
