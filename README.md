@@ -332,7 +332,7 @@ found on The Internet. Feel free to add yours!
 
 #### OPNsense articles
 - [Gateway IT Tutorials - OPNsense: ZeroTier Installation and configuration (site-to-site connection)](https://www.youtube.com/watch?v=JQfjFqoVePg) 
-- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNsense.
+- [zerotier – The Dorknet rises](https://www.exclusionzone.io/zerotier-the-dorknet-rises) - Self-hosted ZeroTier on OPNsense.
 
 
 ## ZeroTier pfSense
