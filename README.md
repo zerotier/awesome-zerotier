@@ -60,7 +60,7 @@ found on The Internet. Feel free to add yours!
 - [mdplusplus/zerotier-network-controller-ui](https://hub.docker.com/r/mdplusplus/zerotier-network-controller-ui) - Docker image for self-hosted ZeroTier.
 
 #### Self-Hosting articles
-- [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNsense.
+- [zerotier – The Dorknet rises](https://www.exclusionzone.io/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNsense.
 - [From zero to Zerotier in k3s way](https://medium.com/iotops/from-zero-to-zerotier-in-k3s-way-eadff5745566) - Self-hosted ZeroTier on a Raspberry Pi, using k3s.
 
 #### Self-Hosting videos
@@ -469,11 +469,11 @@ found on The Internet. Feel free to add yours!
 
 ## ZeroTier Reddit
 - [r/zerotier](https://www.reddit.com/r/zerotier/)
-- [r/homelab](http://reddit.com/r/homelab)
+- [r/homelab](http://reddit.com/r/homelab/)
 
 
 ## ZeroTier YouTube
-- [ZeroTierOffficial YouTube Channel](https://www.youtube.com/channel/UCCN_ehU18m2MXqocbItxTUQ/featured)
+- [ZeroTierOffficial YouTube Channel](https://www.youtube.com/ZeroTierOfficial)
 - [Most Recent Community-Created ZeroTier Videos](https://www.youtube.com/results?search_query=zerotier&sp=CAI%253D)
 
 
