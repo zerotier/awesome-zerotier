@@ -415,6 +415,8 @@ found on The Internet. Feel free to add yours!
 - [DANIEL FELIPE ORJUELA FLOREZ - Transmisión de Video IP - Zerotier - VLC](https://www.youtube.com/watch?v=4M-e4GznAw0)
 - [Michael Guerra - Utilizando Celular como cámara a Vmix de forma remota por SRT y ZeroTier](https://www.youtube.com/watch?v=C__ulFyqDUo)
 
+#### Video/Camera/CCTV
+- [Mo3he - ZeroTier ACAP for Axis cameras](https://github.com/Mo3he/Axis_Cam_ZeroTier)
 
 ## ZeroTier EVE-NG
 
