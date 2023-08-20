@@ -58,6 +58,7 @@ found on The Internet. Feel free to add yours!
 - [thedunston / bash_cli_zt](https://github.com/thedunston/bash_cli_zt) - Command Line interface for self-hosted ZeroTier.
 - [dec0dOS / zero-ui](https://github.com/dec0dOS/zero-ui) - GUI for self-hosted ZeroTier.
 - [mdplusplus/zerotier-network-controller-ui](https://hub.docker.com/r/mdplusplus/zerotier-network-controller-ui) - Docker image for self-hosted ZeroTier.
+- [sinamics / ztnet](https://github.com/sinamics/ztnet) - Containerized GUI for self-hosted ZeroTier.
 
 #### Self-Hosting articles
 - [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNsense.
