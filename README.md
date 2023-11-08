@@ -19,6 +19,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier Remote Access](#zerotier-remote-access)
 - [ZeroTier SD-WAN](#zerotier-sd-wan)
 - [ZeroTier IoT](#zerotier-iot)
+- [ZeroTier Industrial IoT](#zerotier-industrial-iot)
 - [ZeroTier Drone/UAV](#zerotier-droneuav)
 - [ZeroTier Robotics](#zerotier-robotics)
 - [ZeroTier Automotive](#zerotier-automotive)
@@ -31,7 +32,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier Bridging](#zerotier-bridging)
 - [ZeroTier MikroTik](#zerotier-mikrotik)
 - [ZeroTier Ubiquiti](#zerotier-ubiquiti)
-- [ZeroTier Teltonika](#zerotier-teltonika)
+- [ZeroTier Teltonika Networks](#zerotier-teltonika-networks)
 - [ZeroTier OpenWrt](#zerotier-openwrt)
 - [ZeroTier OPNsense](#zerotier-opnsense)
 - [ZeroTier pfSense](#zerotier-pfsense)
@@ -162,10 +163,29 @@ found on The Internet. Feel free to add yours!
 
 ## ZeroTier IoT
 
+#### IoT articles
+- [Do you want to control your #panasonic #broadcast #video cameras from anywhere?](https://www.linkedin.com/posts/jeremyrollinson_panasonic-broadcast-video-activity-7057337376078999552-hFEW)
+- [IOTStack ZeroTier](https://sensorsiot.github.io/IOTstack/Containers/ZeroTier/)
+- [qbee.io IoT - Setup and manage ZeroTier](https://qbee.io/docs/zerotier-setup-with-qbee-agent.html)
+- [I just connected my home automation gateway server to my Sonoff devices using MQTT and Ignition Maker Edition](https://www.linkedin.com/posts/alexandre-castro-msc-28381039_homeautomation-smarthome-mqtt-activity-7086013481119793152-Il8X)
+  
+#### IoT articles global
+- [Se connecter à distance à Home Assistant avec ZeroTier](https://automation360blog.wordpress.com/2021/01/25/iot2050_zerotier/)
+
 #### IoT videos global
 - [การเชื่อมต่อ VPN ให้กับ IOT2050 ด้วย ZeroTier](https://automation360blog.wordpress.com/2021/01/25/iot2050_zerotier/)
 - [industry4.0 systems - ZeroTier para IoT](https://www.youtube.com/watch?v=xTaHqo5fUhU)
 - [Node-RED Cihazına ZeroTier ile Uzaktan Erişim](https://www.youtube.com/watch?v=T5iBesDyxCU)
+
+
+## ZeroTier Industrial IoT
+
+#### Industrial IoT articles
+- [Zerotier & Mikrotik design concept](https://infrageeks.com/post/2023-08-29.zerotier-mikrotik-design-concept/)
+- [NavigateWorx Routers now support ZeroTier Platform](https://www.linkedin.com/posts/navigateworx_navigateworx-routers-now-support-zerotier-activity-7084105000540385280-0o7C/)
+- [Utilising ZeroTier for remote access of the PLC and HMIs](https://www.linkedin.com/posts/sherwin-jacobs_utilising-zerotier-for-remote-access-of-the-activity-7079560913476886528-SyNk) 
+- [RiverPlus Industrial IoT](https://riverplus.atlassian.net/wiki/spaces/IIOTPUB/pages/2422014014/Teltonika+with+ZeroTier+VPN)
+- [IoT (Internet of Things) refers to the network of interconnected physical devices, vehicles, buildings, and other objects embedded with sensors](https://www.linkedin.com/posts/dharmendra-kumar-94472611a_zerotier-opcua-iec61850-activity-7087052704509755392-hkrO)
 
 
 ## ZeroTier Drone/UAV
@@ -271,6 +291,7 @@ found on The Internet. Feel free to add yours!
 ## ZeroTier MikroTik
 
 #### MikroTik articles
+- [Zerotier & Mikrotik design concept](https://itigic.com/mikrotiks-routeros-already-supports-zerotier/)
 - [MikroTik’s RouterOS already supports ZeroTier to create SDN networks](https://itigic.com/mikrotiks-routeros-already-supports-zerotier/)
 
 #### MikroTik articles global
@@ -302,13 +323,13 @@ found on The Internet. Feel free to add yours!
 - [Roel Van de Paar - Exposing LAN with ZeroTier when using Ubiquiti Edge Router X?](https://www.youtube.com/watch?v=F_EWh77-3g8) 
 
 
-## ZeroTier Teltonika
+## ZeroTier Teltonika Networks
 
-#### Teltonika articles
+#### Teltonika Networks articles
 - [Teltonika Wiki ZeroTier Configuration](https://wiki.teltonika-networks.com/view/ZeroTier_Configuration)
 - [How do I create a VPN/SD-WAN with Zerotier and Teltonika?](https://know.innon.com/vpn-zerotier-and-teltonika)
 
-#### Teltonika articles global
+#### Teltonika Networks articles global
 - [Jak skonfigurować sieć ZeroTier dla routera przemysłowego 4G / LTE – na przykładzie Teltonika RUT240](https://www.astor.com.pl/poradnikautomatyka/jak-skonfigurowac-siec-zerotier-dla-routera-przemyslowego-4g-lte-na-przykladzie-teltonika-rut240/)
 - [Zdalny dostęp w celu programowania sterownika PLC bez publicznego IP, na przykładzie Teltonika RUT955 + Horner XL4e + ZeroTier | Kurs zdalnego dostępu do maszyn i stanowisk produkcyjnych odc.3](https://www.astor.com.pl/poradnikautomatyka/zdalny-dostep-w-celu-programowania-sterownika-plc-bez-publicznego-ip-na-przykladzie-teltonika-rut955-horner-xl4e-zerotier-kurs-zdalnego-dostepu-do-maszyn-i-stanowisk-produkcyjnych-odc-3/)
 
