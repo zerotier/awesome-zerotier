@@ -23,7 +23,6 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier Drone/UAV](#zerotier-droneuav)
 - [ZeroTier Robotics](#zerotier-robotics)
 - [ZeroTier Automotive](#zerotier-automotive)
-- [ZeroTier Blockchain/Crypto](#zerotier-blockchaincrypto)
 - [ZeroTier Infosec](#zerotier-infosec)
 - [ZeroTier IBM](#zerotier-ibm)
 - [ZeroTier Terraform](#zerotier-terraform)
@@ -46,6 +45,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier Blender](#zerotier-blender)
 - [ZeroTier Oculus](#zerotier-oculus)
 - [ZeroTier Gaming](#zerotier-gaming)
+- [ZeroTier Blockchain/Crypto](#zerotier-blockchaincrypto)
 - [ZeroTier Everything Else](#zerotier-everything-else)
 - [ZeroTier Reddit](#zerotier-reddit)
 - [ZeroTier YouTube](#zerotier-youtube)
@@ -167,6 +167,7 @@ found on The Internet. Feel free to add yours!
 - [Do you want to control your #panasonic #broadcast #video cameras from anywhere?](https://www.linkedin.com/posts/jeremyrollinson_panasonic-broadcast-video-activity-7057337376078999552-hFEW)
 - [IOTStack ZeroTier](https://sensorsiot.github.io/IOTstack/Containers/ZeroTier/)
 - [qbee.io IoT - Setup and manage ZeroTier](https://qbee.io/docs/zerotier-setup-with-qbee-agent.html)
+- [MQTT to a Server with ZeroTier](https://meshtastic.discourse.group/t/mqtt-to-a-server-with-zerotier/8431/2)
 - [I just connected my home automation gateway server to my Sonoff devices using MQTT and Ignition Maker Edition](https://www.linkedin.com/posts/alexandre-castro-msc-28381039_homeautomation-smarthome-mqtt-activity-7086013481119793152-Il8X)
   
 #### IoT articles global
@@ -182,10 +183,13 @@ found on The Internet. Feel free to add yours!
 
 #### Industrial IoT articles
 - [Zerotier & Mikrotik design concept](https://infrageeks.com/post/2023-08-29.zerotier-mikrotik-design-concept/)
+- [InHand Networks Industrial IoT - InRouter305 User Manual - ZeroTier VPN](https://www.inhandnetworks.com/upload/attachment/202305/15/InRouter305%20User%20Manual%20V1.4.pdf)
 - [NavigateWorx Routers now support ZeroTier Platform](https://www.linkedin.com/posts/navigateworx_navigateworx-routers-now-support-zerotier-activity-7084105000540385280-0o7C/)
-- [Utilising ZeroTier for remote access of the PLC and HMIs](https://www.linkedin.com/posts/sherwin-jacobs_utilising-zerotier-for-remote-access-of-the-activity-7079560913476886528-SyNk) 
 - [RiverPlus Industrial IoT](https://riverplus.atlassian.net/wiki/spaces/IIOTPUB/pages/2422014014/Teltonika+with+ZeroTier+VPN)
+- [Utilising ZeroTier for remote access of the PLC and HMIs](https://www.linkedin.com/posts/sherwin-jacobs_utilising-zerotier-for-remote-access-of-the-activity-7079560913476886528-SyNk)
+- [IEC-61850 - For Industrial OT Engineers - A step-by-step guide on how to use Zerotier and a Raspberry Pi to connect radio and satellites](https://www.linkedin.com/pulse/iec-61850-industrial-ot-engineers-kylo-parisher/)
 - [IoT (Internet of Things) refers to the network of interconnected physical devices, vehicles, buildings, and other objects embedded with sensors](https://www.linkedin.com/posts/dharmendra-kumar-94472611a_zerotier-opcua-iec61850-activity-7087052704509755392-hkrO)
+
 
 
 ## ZeroTier Drone/UAV
@@ -197,6 +201,7 @@ found on The Internet. Feel free to add yours!
 - [Exodronics EXO DATA TELECOMMUNICATIONS, SOFTWARE AND HARDWARE](https://exodronics.com/exo-data-telecommunications-software-hardware/)
 - [RC Bellergy's Drones - 4. Install Zerotier](http://bellergy.com/4-install-zerotier/)
 - [UAVCast- Pro ZeroTier VPN](https://docs.uavmatrix.com/vpn/zerotier/)
+- [PX4 Autopilot User Guide - Data Telephony LTE](https://docs.px4.io/v1.12/en/peripherals/companion_computer_peripherals.html#data-telephony-lte)
 - [VPNs, Cliff Bars, and a Delivery Drone](https://intellitect.com/delivery-drone/)
 
 
@@ -205,6 +210,8 @@ found on The Internet. Feel free to add yours!
 - [nikivanov / watney](https://github.com/nikivanov/watney)
 
 #### Robotics articles
+- [Frontiers in Robotics and AI - Scalable and heterogenous mobile robot fleet-based task automation in crowded hospital environments—a field test](https://www.frontiersin.org/articles/10.3389/frobt.2022.922835/full)
+- [ETHZ RobotX SuperMegaBot](https://ethz-robotx.github.io/SuperMegaBot/robot-operation/HowToVPN.html) 
 - [Telepresent Operation](https://hackaday.io/project/181888-omni/log/198193-telepresent-operation)
 
 
@@ -212,21 +219,6 @@ found on The Internet. Feel free to add yours!
 
 #### Automotive articles
 - [Connecting to my car over ZeroTier](https://www.tiernanotoole.ie/2020/11/09/connecting-to-my-car-over-zerotier.html)
-
-
-## ZeroTier Blockchain/Crypto
-
-- [transumption / holo-router](https://github.com/transumption/holo-router)
-- [oxheadalpha / tezos-k8s](https://github.com/oxheadalpha/tezos-k8s)
-
-#### Blockchain/Crypto articles
-- [bitcoin-tutorials Set up the RaspiBlitz for remote connections with ZeroTier](https://openoms.github.io/bitcoin-tutorials/zerotier/)
-- [HOW TO INSTALL CARDANO STAKING POOL ON A PI 4B](https://www.drokdev.pro/blog/how-to-install-cardano-staking-pool-on-a-pi-4b/)
-- [[HOWTO] Remote plotting and farming over the internet, Ubuntu edition](https://chiaforum.com/t/howto-remote-plotting-and-farming-over-the-internet-ubuntu-edition/11507)
-- [Spinning up a Tezos blockchain with Kubernetes (k8s)](https://medium.com/tqtezos/spinning-up-a-tezos-blockchain-with-kubernetes-k8s-7107e2a257a0)
-
-#### Blockchain/Crypto videos
-- [Node Box Guide 12 - ZeroTier](https://www.youtube.com/watch?v=oM0HvY_x_Hc)
 
 
 ## ZeroTier Infosec
@@ -385,6 +377,7 @@ found on The Internet. Feel free to add yours!
 - [From zero to Zerotier in k3s way](https://medium.com/iotops/from-zero-to-zerotier-in-k3s-way-eadff5745566)
 
 #### Raspberry Pi articles global
+- [Δημιουργία ενός ασφαλούς δικτύου ZeroTier με το Raspberry Pi, το κινητό και το φορητό υπολογιστή](https://eiosifidis.blogspot.com/2023/07/zerotier-raspberry-pi-mobile-laptop-desktop.html)
 - [Raspberry Pi 4Bで、VPN接続。](https://lifelog.tokoton0ch.com/post-403/)
 
 #### Raspberry Pi videos
@@ -440,6 +433,7 @@ found on The Internet. Feel free to add yours!
 #### Video/Camera/CCTV
 - [Mo3he - ZeroTier ACAP for Axis cameras](https://github.com/Mo3he/Axis_Cam_ZeroTier)
 
+
 ## ZeroTier EVE-NG
 
 #### EVE-NG videos
@@ -479,6 +473,21 @@ found on The Internet. Feel free to add yours!
 - [Mr. Horseman Gaming - PPSSPP 1.11.3 Online Settings with ZeroTier](https://www.youtube.com/watch?v=RKpkm6MjyJA) 
 - [Mr. Horseman Gaming - PPSSPP Online for PC & Android (with ZeroTier)](https://www.youtube.com/watch?v=I4AXYZAuV-A) 
 - [TECHY DOOD - Host Minecraft 1.14.4 or 1.15 LAN Server and play with your friends up to 100 - No Hamachi (2020)](https://www.youtube.com/watch?v=oTlxwg3atBc) 
+
+
+## ZeroTier Blockchain/Crypto
+
+- [transumption / holo-router](https://github.com/transumption/holo-router)
+- [oxheadalpha / tezos-k8s](https://github.com/oxheadalpha/tezos-k8s)
+
+#### Blockchain/Crypto articles
+- [bitcoin-tutorials Set up the RaspiBlitz for remote connections with ZeroTier](https://openoms.github.io/bitcoin-tutorials/zerotier/)
+- [HOW TO INSTALL CARDANO STAKING POOL ON A PI 4B](https://www.drokdev.pro/blog/how-to-install-cardano-staking-pool-on-a-pi-4b/)
+- [[HOWTO] Remote plotting and farming over the internet, Ubuntu edition](https://chiaforum.com/t/howto-remote-plotting-and-farming-over-the-internet-ubuntu-edition/11507)
+- [Spinning up a Tezos blockchain with Kubernetes (k8s)](https://medium.com/tqtezos/spinning-up-a-tezos-blockchain-with-kubernetes-k8s-7107e2a257a0)
+
+#### Blockchain/Crypto videos
+- [Node Box Guide 12 - ZeroTier](https://www.youtube.com/watch?v=oM0HvY_x_Hc)
 
 
 ## ZeroTier Everything Else
