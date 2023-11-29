@@ -372,7 +372,7 @@ found on The Internet. Feel free to add yours!
 
 #### GL.iNet
 - [GL.iNet Router Docs](https://docs.gl-inet.com/router/en/4/interface_guide/zerotier/)
-- [GL.iNet Router Docs - ZeroTier Supported Models](https://docs.gl-inet.com/router/en/4/interface_guide/zerotier/#supported-models))
+- [GL.iNet Router Docs - ZeroTier Supported Models](https://docs.gl-inet.com/router/en/4/interface_guide/zerotier/#supported-models)
 
 #### NavigateWorx
 - [NavigateWorx Routers now support ZeroTier Platform](https://www.linkedin.com/posts/navigateworx_navigateworx-routers-now-support-zerotier-activity-7084105000540385280-0o7C/)
