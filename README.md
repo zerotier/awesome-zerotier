@@ -35,6 +35,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier OpenWrt](#zerotier-openwrt)
 - [ZeroTier OPNsense](#zerotier-opnsense)
 - [ZeroTier pfSense](#zerotier-pfsense)
+- [ZeroTier Other Routers](#zerotier-other-routers)
 - [ZeroTier Synology](#zerotier-synology)
 - [ZeroTier Raspberry Pi](#zerotier-raspberry-pi)
 - [ZeroTier 3-D Printing](#zerotier-3-d-printing)
@@ -164,6 +165,7 @@ found on The Internet. Feel free to add yours!
 ## ZeroTier IoT
 
 #### IoT articles
+- [Sensor Actuator Network for In Situ Studies of Antarctic Plants Physiology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9695489/)
 - [Do you want to control your #panasonic #broadcast #video cameras from anywhere?](https://www.linkedin.com/posts/jeremyrollinson_panasonic-broadcast-video-activity-7057337376078999552-hFEW)
 - [IOTStack ZeroTier](https://sensorsiot.github.io/IOTstack/Containers/ZeroTier/)
 - [qbee.io IoT - Setup and manage ZeroTier](https://qbee.io/docs/zerotier-setup-with-qbee-agent.html)
@@ -185,11 +187,11 @@ found on The Internet. Feel free to add yours!
 - [Zerotier & Mikrotik design concept](https://infrageeks.com/post/2023-08-29.zerotier-mikrotik-design-concept/)
 - [InHand Networks Industrial IoT - InRouter305 User Manual - ZeroTier VPN](https://www.inhandnetworks.com/upload/attachment/202305/15/InRouter305%20User%20Manual%20V1.4.pdf)
 - [NavigateWorx Routers now support ZeroTier Platform](https://www.linkedin.com/posts/navigateworx_navigateworx-routers-now-support-zerotier-activity-7084105000540385280-0o7C/)
+- [WLINK IoT - About ZeroTier](https://www.wlink-tech.com/art/about-zerotier)
 - [RiverPlus Industrial IoT](https://riverplus.atlassian.net/wiki/spaces/IIOTPUB/pages/2422014014/Teltonika+with+ZeroTier+VPN)
 - [Utilising ZeroTier for remote access of the PLC and HMIs](https://www.linkedin.com/posts/sherwin-jacobs_utilising-zerotier-for-remote-access-of-the-activity-7079560913476886528-SyNk)
 - [IEC-61850 - For Industrial OT Engineers - A step-by-step guide on how to use Zerotier and a Raspberry Pi to connect radio and satellites](https://www.linkedin.com/pulse/iec-61850-industrial-ot-engineers-kylo-parisher/)
 - [IoT (Internet of Things) refers to the network of interconnected physical devices, vehicles, buildings, and other objects embedded with sensors](https://www.linkedin.com/posts/dharmendra-kumar-94472611a_zerotier-opcua-iec61850-activity-7087052704509755392-hkrO)
-
 
 
 ## ZeroTier Drone/UAV
@@ -219,6 +221,7 @@ found on The Internet. Feel free to add yours!
 
 #### Automotive articles
 - [Connecting to my car over ZeroTier](https://www.tiernanotoole.ie/2020/11/09/connecting-to-my-car-over-zerotier.html)
+- [Ford Transit USA Forum - Routers? Can't be without internet](https://www.fordtransitusaforum.com/threads/routers-cant-be-without-internet-nature-its-all-over-me-get-it-off-of-me.94075/page-5)
 
 
 ## ZeroTier Infosec
@@ -355,6 +358,40 @@ found on The Internet. Feel free to add yours!
 - [jbgzevla - ZeroTier pfSense package demo](https://www.youtube.com/watch?v=t0L_C7_LUgY) 
 
 
+## ZeroTier Other Routers
+
+- [jvoss / zerotier-bird-router](https://github.com/jvoss/zerotier-bird-router)
+- [xwings / xwingswrt](https://github.com/xwings/xwingswrt)
+
+#### Cudy
+- [Cudy Gigabit Multi-WAN VPN Router, R700](http://www.cudytech.com/productinfo/1707613.html)
+- [Cudy 5G SA/NSA AX3000 Wi-Fi 6 Router, Model: P5](http://www.cudytech.com/productinfo/1247700.html)
+
+#### InHand Networks
+- [InHand Networks Industrial IoT - InRouter305 User Manual - ZeroTier VPN](https://www.inhandnetworks.com/upload/attachment/202305/15/InRouter305%20User%20Manual%20V1.4.pdf)
+
+#### GL.iNet
+- [GL.iNet Router Docs](https://docs.gl-inet.com/router/en/4/interface_guide/zerotier/)
+- [GL.iNet Router Docs - ZeroTier Supported Models](https://docs.gl-inet.com/router/en/4/interface_guide/zerotier/#supported-models))
+
+#### NavigateWorx
+- [NavigateWorx Routers now support ZeroTier Platform](https://www.linkedin.com/posts/navigateworx_navigateworx-routers-now-support-zerotier-activity-7084105000540385280-0o7C/)
+
+#### SunComm
+- [SunComm SC-588-5G 5G Outdoor CPE/Router](http://www.suncommtech.com.tw/list_16/46.html)
+- [SUNCOMM 5G CPE Zerotier Setting Introduction](https://www.youtube.com/watch?v=7kCWF3g7M3c)
+- [ACCESS SUNCOMM DASHBOARD THRU ZEROTIER - TUTORIAL](https://www.youtube.com/watch?v=_FnGCul4_Sw)
+
+#### TAKTIKAL
+- [TAKTIKAL 5G / 4G LTE Dual-Band Openwrt Wi-Fi Sim Router](https://www.amazon.com/TAKTIKAL-Dual-Band-Openwrt-Business-Zero-Tier/dp/B0BSCTXB2R)
+
+#### Webdyn
+- [Webdyn EasyRouter](https://www.linkedin.com/posts/activity-7130887066925592576-0onC)
+
+#### WLINK Cellular, 5G/4G/3G/2G, IoT, Industrial IoT, Embedded IoT, Routers, Gateways, Modems
+- [WLINK IoT - About ZeroTier](https://www.wlink-tech.com/art/about-zerotier)
+
+
 ## ZeroTier Synology
 
 #### Synology articles
@@ -370,6 +407,8 @@ found on The Internet. Feel free to add yours!
 
 
 ## ZeroTier Raspberry Pi
+
+- [sirmaestro / docker-pi-hole-zerotier](https://github.com/sirmaestro/docker-pi-hole-zerotier)
 
 #### Raspberry Pi articles
 - [Connecting Raspberry Pi's to DigitalOcean with ZeroTier](https://www.danmanners.com/posts/p2-k3s-digitalocean-zerotier-and-more/)
@@ -422,6 +461,11 @@ found on The Internet. Feel free to add yours!
 
 ## ZeroTier Video/Camera/CCTV
 
+- [Mo3he / ZeroTier ACAP for Axis cameras](https://github.com/Mo3he/Axis_Cam_ZeroTier)
+
+#### Video/Camera/CCTV articles
+- [ZeroTier accessing Local LAN through Bridge](https://medium.com/@vssaiarunesh/zerotier-accessing-local-lan-through-bridge-b97c7309215b)
+
 #### Video/Camera/CCTV videos
 - [Blue Iris Secure Remote Access Using ZeroTier](https://www.youtube.com/watch?v=dmqrK2Fomqw&t)
 - [Blue Iris Remote Access - Port Forwarding vs. VPN](https://www.youtube.com/watch?v=viLwbbX2oJQ)
@@ -429,9 +473,6 @@ found on The Internet. Feel free to add yours!
 #### Video/Camera/CCTV videos global
 - [DANIEL FELIPE ORJUELA FLOREZ - Transmisión de Video IP - Zerotier - VLC](https://www.youtube.com/watch?v=4M-e4GznAw0)
 - [Michael Guerra - Utilizando Celular como cámara a Vmix de forma remota por SRT y ZeroTier](https://www.youtube.com/watch?v=C__ulFyqDUo)
-
-#### Video/Camera/CCTV
-- [Mo3he - ZeroTier ACAP for Axis cameras](https://github.com/Mo3he/Axis_Cam_ZeroTier)
 
 
 ## ZeroTier EVE-NG
@@ -462,8 +503,11 @@ found on The Internet. Feel free to add yours!
 - [ecalder6 / azure-gaming](https://github.com/ecalder6/azure-gaming)
 - [alvr-org / ALVR](https://github.com/alvr-org/ALVR/wiki/ALVR-client-and-server-on-separate-networks)
 - [diasurgical / devilutionX](https://github.com/diasurgical/devilutionX)
+- [gcloudrig / gcloudrig](https://github.com/gcloudrig/gcloudrig)
 
 #### Gaming articles
+- [How to get the most out of The Logitech G Cloud](https://medium.com/@quiethours/how-to-get-the-most-out-of-the-logitech-g-cloud-2e91be871eeb)
+- [DIY Cloud Gaming with Sunshine: How to setup and use Sunshine GameStream](https://www.jilaxzone.com/2021/09/01/diy-cloud-gaming-with-sunshine-how-to-setup-and-use-sunshine-gamestream-over-the-internet-to-play-pc-games-emulators-anywhere-on-android-and-ios/)
 - [FnafDoomMod2Wiki - Multiplayer Tutorial - ZerotierOne Tutorial](https://fnaf-doom-mod-2.fandom.com/wiki/Multiplayer_Tutorial#ZerotierOne_Tutorial)
 
 #### Gaming videos
