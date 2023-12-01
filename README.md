@@ -22,7 +22,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier Industrial IoT](#zerotier-industrial-iot)
 - [ZeroTier Drone/UAV](#zerotier-droneuav)
 - [ZeroTier Robotics](#zerotier-robotics)
-- [ZeroTier Automotive](#zerotier-automotive)
+- [ZeroTier Automotive/Electric/Autonomous Vehicles](#zerotier-automotive)
 - [ZeroTier Infosec](#zerotier-infosec)
 - [ZeroTier IBM](#zerotier-ibm)
 - [ZeroTier Terraform](#zerotier-terraform)
@@ -30,8 +30,8 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier Docker](#zerotier-docker)
 - [ZeroTier Bridging](#zerotier-bridging)
 - [ZeroTier MikroTik](#zerotier-mikrotik)
-- [ZeroTier Ubiquiti](#zerotier-ubiquiti)
 - [ZeroTier Teltonika Networks](#zerotier-teltonika-networks)
+- [ZeroTier Ubiquiti](#zerotier-ubiquiti)
 - [ZeroTier OpenWrt](#zerotier-openwrt)
 - [ZeroTier OPNsense](#zerotier-opnsense)
 - [ZeroTier pfSense](#zerotier-pfsense)
@@ -166,14 +166,18 @@ found on The Internet. Feel free to add yours!
 
 #### IoT articles
 - [Sensor Actuator Network for In Situ Studies of Antarctic Plants Physiology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9695489/)
+- [C3PO: Cloud-based Confidentiality-preserving Continuous Query Processing (IoT)](https://dl.acm.org/doi/10.1145/3472717)
 - [Do you want to control your #panasonic #broadcast #video cameras from anywhere?](https://www.linkedin.com/posts/jeremyrollinson_panasonic-broadcast-video-activity-7057337376078999552-hFEW)
 - [IOTStack ZeroTier](https://sensorsiot.github.io/IOTstack/Containers/ZeroTier/)
 - [qbee.io IoT - Setup and manage ZeroTier](https://qbee.io/docs/zerotier-setup-with-qbee-agent.html)
 - [MQTT to a Server with ZeroTier](https://meshtastic.discourse.group/t/mqtt-to-a-server-with-zerotier/8431/2)
 - [I just connected my home automation gateway server to my Sonoff devices using MQTT and Ignition Maker Edition](https://www.linkedin.com/posts/alexandre-castro-msc-28381039_homeautomation-smarthome-mqtt-activity-7086013481119793152-Il8X)
+- [IoT (Internet of Things) refers to the network of interconnected physical devices, vehicles, buildings, and other objects embedded with sensors](https://www.linkedin.com/posts/dharmendra-kumar-94472611a_zerotier-opcua-iec61850-activity-7087052704509755392-hkrO)
   
 #### IoT articles global
 - [Se connecter à distance à Home Assistant avec ZeroTier](https://automation360blog.wordpress.com/2021/01/25/iot2050_zerotier/)
+- [Industry 4.0 Systems - Zerotier como bridge con una sola interface de red](https://industry40.systems/8)
+- [Diario Curso: Raspberry Pi y Node-RED. 2ª ed](https://aprendiendoarduino.wordpress.com/2022/06/04/diario-curso-raspberry-pi-y-node-red-2a-ed/)
 
 #### IoT videos global
 - [การเชื่อมต่อ VPN ให้กับ IOT2050 ด้วย ZeroTier](https://automation360blog.wordpress.com/2021/01/25/iot2050_zerotier/)
@@ -183,15 +187,23 @@ found on The Internet. Feel free to add yours!
 
 ## ZeroTier Industrial IoT
 
+- [mpsaltis / wago_ZeroTierContainer](https://github.com/mpsaltis/wago_ZeroTierContainer/tree/main)
+
 #### Industrial IoT articles
 - [Zerotier & Mikrotik design concept](https://infrageeks.com/post/2023-08-29.zerotier-mikrotik-design-concept/)
 - [InHand Networks Industrial IoT - InRouter305 User Manual - ZeroTier VPN](https://www.inhandnetworks.com/upload/attachment/202305/15/InRouter305%20User%20Manual%20V1.4.pdf)
 - [NavigateWorx Routers now support ZeroTier Platform](https://www.linkedin.com/posts/navigateworx_navigateworx-routers-now-support-zerotier-activity-7084105000540385280-0o7C/)
 - [WLINK IoT - About ZeroTier](https://www.wlink-tech.com/art/about-zerotier)
+- [How To: Use ZeroTier on Wago Controllers](https://www.wago.community/t/how-to-use-zerotier-on-wago-controllers/529/1)
 - [RiverPlus Industrial IoT](https://riverplus.atlassian.net/wiki/spaces/IIOTPUB/pages/2422014014/Teltonika+with+ZeroTier+VPN)
 - [Utilising ZeroTier for remote access of the PLC and HMIs](https://www.linkedin.com/posts/sherwin-jacobs_utilising-zerotier-for-remote-access-of-the-activity-7079560913476886528-SyNk)
+- [r/ZeroTier - Windows and remote PLC programming](https://www.reddit.com/r/zerotier/comments/rdhu8v/windows_and_remote_plc_programming/)
+- [Teltonika Networks - ZeroTier bridge PLCs behind different routers](https://community.teltonika.lt/t/zerotier-bridge-plc-s-behind-different-routers/2800/21)
 - [IEC-61850 - For Industrial OT Engineers - A step-by-step guide on how to use Zerotier and a Raspberry Pi to connect radio and satellites](https://www.linkedin.com/pulse/iec-61850-industrial-ot-engineers-kylo-parisher/)
-- [IoT (Internet of Things) refers to the network of interconnected physical devices, vehicles, buildings, and other objects embedded with sensors](https://www.linkedin.com/posts/dharmendra-kumar-94472611a_zerotier-opcua-iec61850-activity-7087052704509755392-hkrO)
+- [Dell Validated Design for Manufacturing Edge - Design Guide with 5 Independent Software Vendors](https://infohub.delltechnologies.com/l/dell-validated-design-for-manufacturing-edge-design-guide-with-5-independent-software-vendors-1/litmus-system-design-5/)
+
+#### Industrial IoT articles global
+- [Especialización en Industria 4.0: Aplicaciones IOT](https://autotecperu.com/capacitaciones_curso.php?i=28&n=variadores_y_sistema_de_presion_constante)
 
 
 ## ZeroTier Drone/UAV
@@ -213,13 +225,18 @@ found on The Internet. Feel free to add yours!
 
 #### Robotics articles
 - [Frontiers in Robotics and AI - Scalable and heterogenous mobile robot fleet-based task automation in crowded hospital environments—a field test](https://www.frontiersin.org/articles/10.3389/frobt.2022.922835/full)
+- [Remote Operation of Marine Robotic Systems and Next-Generation Multi-Purpose Control Rooms](https://www.mdpi.com/2077-1312/11/10/1942)
+- [Help understanding BlueBoat Hardware/Software Architecture for hydrography](https://discuss.bluerobotics.com/t/help-understanding-blueboat-hardware-software-architecture-for-hydrography/14822/2)
 - [ETHZ RobotX SuperMegaBot](https://ethz-robotx.github.io/SuperMegaBot/robot-operation/HowToVPN.html) 
 - [Telepresent Operation](https://hackaday.io/project/181888-omni/log/198193-telepresent-operation)
+- [A 4G-Connected Micro-Rover With Infinite Range](https://www.burkelab.com/wp-content/uploads/A-4G-Connected-Micro-Rover.pdf)
 
 
 ## ZeroTier Automotive
 
-#### Automotive articles
+#### Automotive/Electric/Autonomous Vehicles articles
+- [Smart Card-based Access Control System using Isolated Many-to-Many Authentication Scheme for Electric Vehicle Charging Stations](https://journals.itb.ac.id/index.php/jictra/article/view/19796)
+- [Certifying battery usage for Vehicle-to-Grid and second life with a blockchain-based framework](https://www.sciencedirect.com/science/article/pii/S1389128623000038?via%3Dihub)
 - [Connecting to my car over ZeroTier](https://www.tiernanotoole.ie/2020/11/09/connecting-to-my-car-over-zerotier.html)
 - [Ford Transit USA Forum - Routers? Can't be without internet](https://www.fordtransitusaforum.com/threads/routers-cant-be-without-internet-nature-its-all-over-me-get-it-off-of-me.94075/page-5)
 
@@ -305,28 +322,30 @@ found on The Internet. Feel free to add yours!
 - [Zerotier στο Mikrotik || Πως το ρυθμίζουμε στο RouterOS!](https://www.youtube.com/watch?v=RDJdaXtnC9A)
 
 
+## ZeroTier Teltonika Networks
+
+#### Teltonika Networks articles
+- [Teltonika Wiki ZeroTier Configuration](https://wiki.teltonika-networks.com/view/ZeroTier_Configuration)
+- [ZeroTier One VPN configuration RutOS](https://wiki.teltonika-networks.com/wikibase/index.php?title=ZeroTier_One_VPN_configuration_RutOS&mobileaction=toggle_view_desktop)
+- [How do I create a VPN/SD-WAN with Zerotier and Teltonika?](https://know.innon.com/vpn-zerotier-and-teltonika)
+
+#### Teltonika Networks articles global
+- [Jak skonfigurować sieć ZeroTier dla routera przemysłowego 4G / LTE – na przykładzie Teltonika RUT240](https://www.astor.com.pl/poradnikautomatyka/jak-skonfigurowac-siec-zerotier-dla-routera-przemyslowego-4g-lte-na-przykladzie-teltonika-rut240/)
+- [Zdalny dostęp w celu programowania sterownika PLC bez publicznego IP, na przykładzie Teltonika RUT955 + Horner XL4e + ZeroTier | Kurs zdalnego dostępu do maszyn i stanowisk produkcyjnych odc.3](https://www.astor.com.pl/poradnikautomatyka/zdalny-dostep-w-celu-programowania-sterownika-plc-bez-publicznego-ip-na-przykladzie-teltonika-rut955-horner-xl4e-zerotier-kurs-zdalnego-dostepu-do-maszyn-i-stanowisk-produkcyjnych-odc-3/)
+
+
 ## ZeroTier Ubiquiti
 
 #### Ubiquiti articles
 - [ZeroTier on a Ubiquiti EdgeRouter](https://kruyt.org/zerotier-on-a-ubiquiti-edgerouter/)
 - [ZeroTier on a Ubiquiti EdgeRouter (part 2)](https://kruyt.org/zerotier-on-edgerouter-p2/)
+- [The Ubiquiti Diaries: A Site-to-Site VPN Story - Activating ZeroTier - A Virtual SDN](https://www.anandtech.com/show/18692/the-ubiquiti-diaries-a-sitetosite-vpn-story/5)
 
 #### Ubiquiti articles global
 - [Unifi UDM Pro, ZT, encore...](https://www.canaletto.fr/post/unifi-udm-pro-encore)
 
 #### Ubiquiti videos
 - [Roel Van de Paar - Exposing LAN with ZeroTier when using Ubiquiti Edge Router X?](https://www.youtube.com/watch?v=F_EWh77-3g8) 
-
-
-## ZeroTier Teltonika Networks
-
-#### Teltonika Networks articles
-- [Teltonika Wiki ZeroTier Configuration](https://wiki.teltonika-networks.com/view/ZeroTier_Configuration)
-- [How do I create a VPN/SD-WAN with Zerotier and Teltonika?](https://know.innon.com/vpn-zerotier-and-teltonika)
-
-#### Teltonika Networks articles global
-- [Jak skonfigurować sieć ZeroTier dla routera przemysłowego 4G / LTE – na przykładzie Teltonika RUT240](https://www.astor.com.pl/poradnikautomatyka/jak-skonfigurowac-siec-zerotier-dla-routera-przemyslowego-4g-lte-na-przykladzie-teltonika-rut240/)
-- [Zdalny dostęp w celu programowania sterownika PLC bez publicznego IP, na przykładzie Teltonika RUT955 + Horner XL4e + ZeroTier | Kurs zdalnego dostępu do maszyn i stanowisk produkcyjnych odc.3](https://www.astor.com.pl/poradnikautomatyka/zdalny-dostep-w-celu-programowania-sterownika-plc-bez-publicznego-ip-na-przykladzie-teltonika-rut955-horner-xl4e-zerotier-kurs-zdalnego-dostepu-do-maszyn-i-stanowisk-produkcyjnych-odc-3/)
 
 
 ## ZeroTier OpenWrt
@@ -366,6 +385,9 @@ found on The Internet. Feel free to add yours!
 #### Cudy
 - [Cudy Gigabit Multi-WAN VPN Router, R700](http://www.cudytech.com/productinfo/1707613.html)
 - [Cudy 5G SA/NSA AX3000 Wi-Fi 6 Router, Model: P5](http://www.cudytech.com/productinfo/1247700.html)
+
+#### EXVIST
+- [EXVIST Router EX2](https://docs.exvist.com/ex2/configuration/advance-setting/zerotier)
 
 #### InHand Networks
 - [InHand Networks Industrial IoT - InRouter305 User Manual - ZeroTier VPN](https://www.inhandnetworks.com/upload/attachment/202305/15/InRouter305%20User%20Manual%20V1.4.pdf)
@@ -526,9 +548,11 @@ found on The Internet. Feel free to add yours!
 
 #### Blockchain/Crypto articles
 - [bitcoin-tutorials Set up the RaspiBlitz for remote connections with ZeroTier](https://openoms.github.io/bitcoin-tutorials/zerotier/)
+- [NODL - Connect remotely using ZeroTier](https://docs.nodl.it/guides/zerotier.html)
 - [HOW TO INSTALL CARDANO STAKING POOL ON A PI 4B](https://www.drokdev.pro/blog/how-to-install-cardano-staking-pool-on-a-pi-4b/)
-- [[HOWTO] Remote plotting and farming over the internet, Ubuntu edition](https://chiaforum.com/t/howto-remote-plotting-and-farming-over-the-internet-ubuntu-edition/11507)
+- [HOWTO Remote plotting and farming over the internet, Ubuntu edition](https://chiaforum.com/t/howto-remote-plotting-and-farming-over-the-internet-ubuntu-edition/11507)
 - [Spinning up a Tezos blockchain with Kubernetes (k8s)](https://medium.com/tqtezos/spinning-up-a-tezos-blockchain-with-kubernetes-k8s-7107e2a257a0)
+- [Certifying battery usage for Vehicle-to-Grid and second life with a blockchain-based framework](https://www.sciencedirect.com/science/article/pii/S1389128623000038?via%3Dihub)
 
 #### Blockchain/Crypto videos
 - [Node Box Guide 12 - ZeroTier](https://www.youtube.com/watch?v=oM0HvY_x_Hc)
@@ -546,11 +570,10 @@ found on The Internet. Feel free to add yours!
 
 ## ZeroTier Reddit
 - [r/zerotier](https://www.reddit.com/r/zerotier/)
-- [r/homelab](http://reddit.com/r/homelab)
 
 
 ## ZeroTier YouTube
-- [ZeroTierOffficial YouTube Channel](https://www.youtube.com/channel/UCCN_ehU18m2MXqocbItxTUQ/featured)
+- [ZeroTierOffficial YouTube Channel](https://www.youtube.com/ZeroTierOfficial)
 - [Most Recent Community-Created ZeroTier Videos](https://www.youtube.com/results?search_query=zerotier&sp=CAI%253D)
 
 
