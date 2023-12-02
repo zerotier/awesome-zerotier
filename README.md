@@ -20,9 +20,10 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier SD-WAN](#zerotier-sd-wan)
 - [ZeroTier IoT](#zerotier-iot)
 - [ZeroTier Industrial IoT](#zerotier-industrial-iot)
-- [ZeroTier Edge](#zerotier-edge)
+- [ZeroTier Edge Computing](#zerotier-edge-computing)
 - [ZeroTier Drone/UAV](#zerotier-droneuav)
 - [ZeroTier Robotics](#zerotier-robotics)
+- [ZeroTier AgTech](#zerotier-agtech)
 - [ZeroTier Automotive/Electric/Autonomous Vehicles](#zerotier-automotive)
 - [ZeroTier Infosec](#zerotier-infosec)
 - [ZeroTier IBM](#zerotier-ibm)
@@ -214,9 +215,9 @@ found on The Internet. Feel free to add yours!
 - [Configurar PLC Siemens S7 1200 en remoto con diferentes IP desde Zerotier](https://www.youtube.com/watch?v=oeXo0wk3dBE)
 
 
-## ZeroTier Edge
+## ZeroTier Edge Computing
 
-#### Edge articles
+#### Edge Computing articles
 - [Dell Validated Design for Manufacturing Edge - Design Guide with 5 Independent Software Vendors](https://infohub.delltechnologies.com/l/dell-validated-design-for-manufacturing-edge-design-guide-with-5-independent-software-vendors-1/litmus-system-design-5/)
 - [AI@Edge - A Secure and Reusable Artificial Intelligence Platform for Edge Computing in Beyond 5G Networks](https://aiatedge.eu/wp-content/uploads/2023/02/AI@EDGE_D5.2_Preliminary-validation-and-use-case-benchmarking.pdf)
 
@@ -245,6 +246,12 @@ found on The Internet. Feel free to add yours!
 - [ETHZ RobotX SuperMegaBot](https://ethz-robotx.github.io/SuperMegaBot/robot-operation/HowToVPN.html) 
 - [Telepresent Operation](https://hackaday.io/project/181888-omni/log/198193-telepresent-operation)
 - [A 4G-Connected Micro-Rover With Infinite Range](https://www.burkelab.com/wp-content/uploads/A-4G-Connected-Micro-Rover.pdf)
+
+
+## ZeroTier AgTech
+
+#### AgTech articles
+- [Smart Agricultural Technology - Smart implements by leveraging ISOBUS: Development and evaluation of field applications](https://www.researchgate.net/publication/374594291_Smart_implements_by_leveraging_ISOBUS_Development_and_evaluation_of_field_applications)
 
 
 ## ZeroTier Automotive
