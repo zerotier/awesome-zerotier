@@ -20,6 +20,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier SD-WAN](#zerotier-sd-wan)
 - [ZeroTier IoT](#zerotier-iot)
 - [ZeroTier Industrial IoT](#zerotier-industrial-iot)
+- [ZeroTier Edge](#zerotier-edge)
 - [ZeroTier Drone/UAV](#zerotier-droneuav)
 - [ZeroTier Robotics](#zerotier-robotics)
 - [ZeroTier Automotive/Electric/Autonomous Vehicles](#zerotier-automotive)
@@ -125,7 +126,10 @@ found on The Internet. Feel free to add yours!
 - [Install Zerotier CLI Linux](https://www.greghilston.com/post/install_zerotier/)
 
 #### Linux videos
-- [Roel Van de Paar - Install ZeroTier on Ubuntu with armhf hardware](https://www.youtube.com/watch?v=9KMHwCUzf4g) 
+- [Roel Van de Paar - Install ZeroTier on Ubuntu with armhf hardware](https://www.youtube.com/watch?v=9KMHwCUzf4g)
+
+#### Linux videos global
+- [Oracle Linux y Zerotier One](https://www.youtube.com/watch?v=y6nwlr9JiV4)
 
 
 ## ZeroTier Remote Access
@@ -183,6 +187,7 @@ found on The Internet. Feel free to add yours!
 - [การเชื่อมต่อ VPN ให้กับ IOT2050 ด้วย ZeroTier](https://automation360blog.wordpress.com/2021/01/25/iot2050_zerotier/)
 - [industry4.0 systems - ZeroTier para IoT](https://www.youtube.com/watch?v=xTaHqo5fUhU)
 - [Node-RED Cihazına ZeroTier ile Uzaktan Erişim](https://www.youtube.com/watch?v=T5iBesDyxCU)
+- [AI_SmartSwitch ESP01 #NgobrolSantai Basic Networking - ZeroTier-One VPN](https://www.youtube.com/watch?v=kV3Wbz7fyZE)
 
 
 ## ZeroTier Industrial IoT
@@ -200,10 +205,20 @@ found on The Internet. Feel free to add yours!
 - [r/ZeroTier - Windows and remote PLC programming](https://www.reddit.com/r/zerotier/comments/rdhu8v/windows_and_remote_plc_programming/)
 - [Teltonika Networks - ZeroTier bridge PLCs behind different routers](https://community.teltonika.lt/t/zerotier-bridge-plc-s-behind-different-routers/2800/21)
 - [IEC-61850 - For Industrial OT Engineers - A step-by-step guide on how to use Zerotier and a Raspberry Pi to connect radio and satellites](https://www.linkedin.com/pulse/iec-61850-industrial-ot-engineers-kylo-parisher/)
-- [Dell Validated Design for Manufacturing Edge - Design Guide with 5 Independent Software Vendors](https://infohub.delltechnologies.com/l/dell-validated-design-for-manufacturing-edge-design-guide-with-5-independent-software-vendors-1/litmus-system-design-5/)
 
 #### Industrial IoT articles global
 - [Especialización en Industria 4.0: Aplicaciones IOT](https://autotecperu.com/capacitaciones_curso.php?i=28&n=variadores_y_sistema_de_presion_constante)
+- [Configurare una VPN ZeroTier su un router MikroTik per raggiungere un supervisiore Schneider Wiser KNX su un impianto](https://www.linkedin.com/posts/marco-boschini_mikrotik-routeros-scheider-activity-6994358479893217280-J0eE/)
+
+#### Industrial IoT videos global
+- [Configurar PLC Siemens S7 1200 en remoto con diferentes IP desde Zerotier](https://www.youtube.com/watch?v=oeXo0wk3dBE)
+
+
+## ZeroTier Edge
+
+#### Edge articles
+- [Dell Validated Design for Manufacturing Edge - Design Guide with 5 Independent Software Vendors](https://infohub.delltechnologies.com/l/dell-validated-design-for-manufacturing-edge-design-guide-with-5-independent-software-vendors-1/litmus-system-design-5/)
+- [AI@Edge - A Secure and Reusable Artificial Intelligence Platform for Edge Computing in Beyond 5G Networks](https://aiatedge.eu/wp-content/uploads/2023/02/AI@EDGE_D5.2_Preliminary-validation-and-use-case-benchmarking.pdf)
 
 
 ## ZeroTier Drone/UAV
