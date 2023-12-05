@@ -23,8 +23,9 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier Edge Computing](#zerotier-edge-computing)
 - [ZeroTier Drone/UAV](#zerotier-droneuav)
 - [ZeroTier Robotics](#zerotier-robotics)
-- [ZeroTier AgTech](#zerotier-agtech)
 - [ZeroTier Automotive/Electric/Autonomous Vehicles](#zerotier-automotive)
+- [ZeroTier AgTech](#zerotier-agtech)
+- [ZeroTier Earthquake Detection](#zerotier-earthquake-detection)
 - [ZeroTier Infosec](#zerotier-infosec)
 - [ZeroTier IBM](#zerotier-ibm)
 - [ZeroTier Terraform](#zerotier-terraform)
@@ -38,6 +39,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier OPNsense](#zerotier-opnsense)
 - [ZeroTier pfSense](#zerotier-pfsense)
 - [ZeroTier Other Routers](#zerotier-other-routers)
+- [ZeroTier Gateways](#zerotier-gateways)
 - [ZeroTier Synology](#zerotier-synology)
 - [ZeroTier Raspberry Pi](#zerotier-raspberry-pi)
 - [ZeroTier 3-D Printing](#zerotier-3-d-printing)
@@ -170,15 +172,21 @@ found on The Internet. Feel free to add yours!
 ## ZeroTier IoT
 
 #### IoT articles
-- [Sensor Actuator Network for In Situ Studies of Antarctic Plants Physiology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9695489/)
-- [C3PO: Cloud-based Confidentiality-preserving Continuous Query Processing (IoT)](https://dl.acm.org/doi/10.1145/3472717)
 - [Do you want to control your #panasonic #broadcast #video cameras from anywhere?](https://www.linkedin.com/posts/jeremyrollinson_panasonic-broadcast-video-activity-7057337376078999552-hFEW)
 - [IOTStack ZeroTier](https://sensorsiot.github.io/IOTstack/Containers/ZeroTier/)
 - [qbee.io IoT - Setup and manage ZeroTier](https://qbee.io/docs/zerotier-setup-with-qbee-agent.html)
 - [MQTT to a Server with ZeroTier](https://meshtastic.discourse.group/t/mqtt-to-a-server-with-zerotier/8431/2)
 - [I just connected my home automation gateway server to my Sonoff devices using MQTT and Ignition Maker Edition](https://www.linkedin.com/posts/alexandre-castro-msc-28381039_homeautomation-smarthome-mqtt-activity-7086013481119793152-Il8X)
 - [IoT (Internet of Things) refers to the network of interconnected physical devices, vehicles, buildings, and other objects embedded with sensors](https://www.linkedin.com/posts/dharmendra-kumar-94472611a_zerotier-opcua-iec61850-activity-7087052704509755392-hkrO)
-  
+
+#### IoT published research
+- [Sensor Actuator Network for In Situ Studies of Antarctic Plants Physiology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9695489/)
+- [Development of sensors using Internet of Things](https://riunet.upv.es/bitstream/handle/10251/186553/Yerpes%20-%20Development%20of%20sensors%20using%20Internet%20of%20Things.pdf?sequence=1)
+- [ieee.org - Accurate Detection of IoT Sensor Behaviors in Legitimate, Faulty and Compromised Scenarios](https://www.computer.org/csdl/journal/tq/2023/01/09632348/1yYPqVxHkgU)
+- [C3PO: Cloud-based Confidentiality-preserving Continuous Query Processing (IoT)](https://dl.acm.org/doi/10.1145/3472717)
+
+- [balena-io-examples / balena-zerotier-gateway](https://github.com/balena-io-examples/balena-zerotier-gateway)
+
 #### IoT articles global
 - [Se connecter à distance à Home Assistant avec ZeroTier](https://automation360blog.wordpress.com/2021/01/25/iot2050_zerotier/)
 - [Industry 4.0 Systems - Zerotier como bridge con una sola interface de red](https://industry40.systems/8)
@@ -226,13 +234,15 @@ found on The Internet. Feel free to add yours!
 
 - [uavpal / disco4g](https://github.com/uavpal/disco4g)
 
-#### Drone/UAV articles
-- [COEX Clover - Creating a virtual network ZeroTier One and connecting to it](https://clover.coex.tech/en/zerotire_vpn.html)
+#### Drone/UAV articles 
+
+- [COEX Clover - Creating a virtual network ZeroTier One and connecting to it](https://clover.coex.tech/en/zerotier_vpn.html))
 - [Exodronics EXO DATA TELECOMMUNICATIONS, SOFTWARE AND HARDWARE](https://exodronics.com/exo-data-telecommunications-software-hardware/)
 - [RC Bellergy's Drones - 4. Install Zerotier](http://bellergy.com/4-install-zerotier/)
 - [UAVCast- Pro ZeroTier VPN](https://docs.uavmatrix.com/vpn/zerotier/)
-- [PX4 Autopilot User Guide - Data Telephony LTE](https://docs.px4.io/v1.12/en/peripherals/companion_computer_peripherals.html#data-telephony-lte)
 - [VPNs, Cliff Bars, and a Delivery Drone](https://intellitect.com/delivery-drone/)
+- [PX4 Autopilot User Guide - Data Telephony LTE](https://docs.px4.io/v1.12/en/peripherals/companion_computer_peripherals.html#data-telephony-lte)
+- [ieee.org - A Safe, Open Source, 4G Connected Self-Flying Plane With 1 Hour Flight Time and All Up Weight (AUW) < 300 g: Towards a New Class of Internet Enabled UAVs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8718270)
 
 
 ## ZeroTier Robotics
@@ -248,12 +258,6 @@ found on The Internet. Feel free to add yours!
 - [A 4G-Connected Micro-Rover With Infinite Range](https://www.burkelab.com/wp-content/uploads/A-4G-Connected-Micro-Rover.pdf)
 
 
-## ZeroTier AgTech
-
-#### AgTech articles
-- [Smart Agricultural Technology - Smart implements by leveraging ISOBUS: Development and evaluation of field applications](https://www.researchgate.net/publication/374594291_Smart_implements_by_leveraging_ISOBUS_Development_and_evaluation_of_field_applications)
-
-
 ## ZeroTier Automotive
 
 #### Automotive/Electric/Autonomous Vehicles articles
@@ -261,6 +265,21 @@ found on The Internet. Feel free to add yours!
 - [Certifying battery usage for Vehicle-to-Grid and second life with a blockchain-based framework](https://www.sciencedirect.com/science/article/pii/S1389128623000038?via%3Dihub)
 - [Connecting to my car over ZeroTier](https://www.tiernanotoole.ie/2020/11/09/connecting-to-my-car-over-zerotier.html)
 - [Ford Transit USA Forum - Routers? Can't be without internet](https://www.fordtransitusaforum.com/threads/routers-cant-be-without-internet-nature-its-all-over-me-get-it-off-of-me.94075/page-5)
+
+
+## ZeroTier AgTech
+
+#### AgTech articles
+- [Smart Agricultural Technology - Smart implements by leveraging ISOBUS: Development and evaluation of field applications](https://www.researchgate.net/publication/374594291_Smart_implements_by_leveraging_ISOBUS_Development_and_evaluation_of_field_applications)
+
+
+## ZeroTier Earthquake Detection
+
+#### Earthquake Detection articles
+- [How to connect to Raspberry Shake remotely](https://manual.raspberryshake.org/remoteConnection.html)
+- [A Peer-to-Peer Communication Method for Distributed Earthquake Early Warning Networks: Preliminary Findings](https://idl.iscram.org/files/benjaminhong/2023/2485_BenjaminHong_etal2023.pdf)
+- [“Saving Precious Seconds”—A Novel Approach to Implementing a Low-Cost Earthquake Early Warning System with Node-Level Detection and Alert Generation](https://www.mdpi.com/2227-9709/9/1/25)
+- [eqc.govt.nz - Community-led low-cost micro-seismic (MS) sensor network applications for Earthquake Early Warning (EEW)](https://www.eqc.govt.nz/assets/Publications-Resources/Funded-Research-papers/1973-Community-led-low-cost-micro-seismic-MS-sensor-network-applications-for-Earthquake-Early-Warning-EEW.pdf)
 
 
 ## ZeroTier Infosec
@@ -325,6 +344,7 @@ found on The Internet. Feel free to add yours!
 ## ZeroTier MikroTik
 
 #### MikroTik articles
+- [ZeroTier - RouterOS - MikroTik Documentation - Support](https://help.mikrotik.com/docs/display/ROS/ZeroTier)
 - [Zerotier & Mikrotik design concept](https://itigic.com/mikrotiks-routeros-already-supports-zerotier/)
 - [MikroTik’s RouterOS already supports ZeroTier to create SDN networks](https://itigic.com/mikrotiks-routeros-already-supports-zerotier/)
 
@@ -355,6 +375,9 @@ found on The Internet. Feel free to add yours!
 - [Jak skonfigurować sieć ZeroTier dla routera przemysłowego 4G / LTE – na przykładzie Teltonika RUT240](https://www.astor.com.pl/poradnikautomatyka/jak-skonfigurowac-siec-zerotier-dla-routera-przemyslowego-4g-lte-na-przykladzie-teltonika-rut240/)
 - [Zdalny dostęp w celu programowania sterownika PLC bez publicznego IP, na przykładzie Teltonika RUT955 + Horner XL4e + ZeroTier | Kurs zdalnego dostępu do maszyn i stanowisk produkcyjnych odc.3](https://www.astor.com.pl/poradnikautomatyka/zdalny-dostep-w-celu-programowania-sterownika-plc-bez-publicznego-ip-na-przykladzie-teltonika-rut955-horner-xl4e-zerotier-kurs-zdalnego-dostepu-do-maszyn-i-stanowisk-produkcyjnych-odc-3/)
 
+#### Teltonika Networks videos
+- [How to Set Up ZeroTier Communication Bridge on RUTX50 & RUTX11](https://www.youtube.com/watch?v=aVwwjQNpJh4)
+
 
 ## ZeroTier Ubiquiti
 
@@ -376,10 +399,12 @@ found on The Internet. Feel free to add yours!
 - [mwarning / zerotier-openwrt](https://github.com/mwarning/zerotier-openwrt)
 
 #### OpenWrt articles
-- [How to remote access Openwrt router over the internet using Zerotier | 2021](https://www.youtube.com/watch?v=dTmp7rY4wHc)
+- [OpenWrt.org - Install a Router as ZeroTier Client](https://forum.openwrt.org/t/install-a-router-as-zerotier-client/152732/6)
 - [Set Up a ZeroTier Network on OpenWRT](https://kysonlok.github.io/2020/06/12/Set-Up-a-ZeroTier-Network-on-OpenWRT/)
 - [ZeroTier on OpenWrt (VPN + SD-WAN)](https://foro.seguridadwireless.net/openwrt/vpn-con-zerotier-en-openwrt/)
 
+#### OpenWrt videos
+- [How to remote access Openwrt router over the internet using Zerotier](https://www.youtube.com/watch?v=dTmp7rY4wHc)
 
 #### OpenWrt videos global
 - [PABALATAK - CARA MEMBUAT ZEROTIER UNTUK REMOTE OPENWRT DI LUAR JARINGAN](https://www.youtube.com/watch?v=Cfy8xOxW-34)
@@ -404,6 +429,9 @@ found on The Internet. Feel free to add yours!
 - [jvoss / zerotier-bird-router](https://github.com/jvoss/zerotier-bird-router)
 - [xwings / xwingswrt](https://github.com/xwings/xwingswrt)
 
+#### Advantech
+- [ZeroTier on Advantech Routers](https://icr.advantech.com/support/faq/detail/zerotier-on-advantech-routers)
+
 #### Cudy
 - [Cudy Gigabit Multi-WAN VPN Router, R700](http://www.cudytech.com/productinfo/1707613.html)
 - [Cudy 5G SA/NSA AX3000 Wi-Fi 6 Router, Model: P5](http://www.cudytech.com/productinfo/1247700.html)
@@ -417,6 +445,10 @@ found on The Internet. Feel free to add yours!
 #### GL.iNet
 - [GL.iNet Router Docs](https://docs.gl-inet.com/router/en/4/interface_guide/zerotier/)
 - [GL.iNet Router Docs - ZeroTier Supported Models](https://docs.gl-inet.com/router/en/4/interface_guide/zerotier/#supported-models)
+- [GL-iNet Puli AX Wi-Fi 6 Cellular Router review](https://www.techradar.com/pro/phone-communications/gl-inet-puli-ax-wi-fi-6-cellular-router-review)
+
+#### ICC Networking
+- [How to: MGS/AWG Gateway - Setting up ZeroTier (snmp on a switch)](https://iccnetworking.zohodesk.com/portal/en/kb/articles/how-to-awg-gateway-setting-up-zerotier)
 
 #### NavigateWorx
 - [NavigateWorx Routers now support ZeroTier Platform](https://www.linkedin.com/posts/navigateworx_navigateworx-routers-now-support-zerotier-activity-7084105000540385280-0o7C/)
@@ -436,6 +468,17 @@ found on The Internet. Feel free to add yours!
 - [WLINK IoT - About ZeroTier](https://www.wlink-tech.com/art/about-zerotier)
 
 
+## ZeroTier Gateways
+
+- [tjelen / zerotier-ubuntu-gateway.md](https://gist.github.com/tjelen/0c070d343c9e6d3db2fbf57e6ceafa7c)
+
+#### ELASTEL
+- [EG410 IoT Gateway](https://www.elastel.com/products/industrial-raspberry-pi/eg410-iot-gateway/)
+
+#### OpenVox 
+- [OpenVox FXS/FXO VoIP Gateways](https://www.openvox.cn/products/38/b200m-detail.html?tmpl=component&print=1)
+
+
 ## ZeroTier Synology
 
 #### Synology articles
@@ -452,11 +495,15 @@ found on The Internet. Feel free to add yours!
 
 ## ZeroTier Raspberry Pi
 
+- [rogeriopradoj / zt_VPN.md](https://gist.github.com/rogeriopradoj/84a42420695f048705073aaf5f51c233)
 - [sirmaestro / docker-pi-hole-zerotier](https://github.com/sirmaestro/docker-pi-hole-zerotier)
 
 #### Raspberry Pi articles
-- [Connecting Raspberry Pi's to DigitalOcean with ZeroTier](https://www.danmanners.com/posts/p2-k3s-digitalocean-zerotier-and-more/)
+- [Enable snaps on Raspberry Pi and install zerotier](https://snapcraft.io/install/zerotier/raspbian)
+- [RaspiServer - How to: Install ZeroTier on Raspberry Pi](https://raspiserver.com/how-to-install-zerotier-on-raspberry-pi/)
+- [PiMyLifeUp - Running ZeroTier on the Raspberry Pi](https://pimylifeup.com/raspberry-pi-zerotier/)
 - [Setup a VPN using Zerotier and a Raspberry Pi](https://www.jamesleighton.com/2020/05/16/vpn-using-zerotier-and-a-raspberry-pi/)
+- [Connecting Raspberry Pi's to DigitalOcean with ZeroTier](https://www.danmanners.com/posts/p2-k3s-digitalocean-zerotier-and-more/)
 - [From zero to Zerotier in k3s way](https://medium.com/iotops/from-zero-to-zerotier-in-k3s-way-eadff5745566)
 
 #### Raspberry Pi articles global
