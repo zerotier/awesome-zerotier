@@ -231,6 +231,9 @@ found on The Internet. Feel free to add yours!
 - [Exciting News! Introducing ZeroTier to our RMSv2 products!](https://twitter.com/EtherTek/status/1668797431474184192)
 - [RMS-100v2 Firmware](https://remotemonitoringsystems.ca/rms100v2/rms-100v2-upgrade-firmware.php)
 
+#### Logic Machine platform for KNX/EIB, EnOcean, Modbus, DALI, BacNet | plc, knx, enocean, modbus, bacnet, dali, scada, gsm
+- [ZeroTier remote maintenance of LogicMachine](https://kb.logicmachine.net/misc/zerotier/)
+
 
 ## ZeroTier Edge Computing
 
@@ -245,7 +248,7 @@ found on The Internet. Feel free to add yours!
 
 #### Drone/UAV articles 
 
-- [COEX Clover - Creating a virtual network ZeroTier One and connecting to it](https://clover.coex.tech/en/zerotier_vpn.html))
+- [COEX Clover - Creating a virtual network ZeroTier One and connecting to it](https://clover.coex.tech/en/zerotier_vpn.html)
 - [Exodronics EXO DATA TELECOMMUNICATIONS, SOFTWARE AND HARDWARE](https://exodronics.com/exo-data-telecommunications-software-hardware/)
 - [RC Bellergy's Drones - 4. Install Zerotier](http://bellergy.com/4-install-zerotier/)
 - [UAVCast- Pro ZeroTier VPN](https://docs.uavmatrix.com/vpn/zerotier/)
@@ -476,6 +479,9 @@ found on The Internet. Feel free to add yours!
 
 #### WLINK Cellular, 5G/4G/3G/2G, IoT, Industrial IoT, Embedded IoT, Routers, Gateways, Modems
 - [WLINK IoT - About ZeroTier](https://www.wlink-tech.com/art/about-zerotier)
+
+#### Xiamen Yifan Communication Technology
+- [Yeacomm NR610 5G outdoor CPE](https://www.linkedin.com/posts/xiamen-yifan-communication-technology-co-ltd_yeacomm-nr610-5g-outdoor-cpe-initial-setup-activity-7043874882387918849-QGjC/)
 
 #### Yang Yang
 - [Check out our industrial 5G robust Router F-NR100](https://www.linkedin.com/posts/yang-yang-b53540191_5g-industrial-robust-activity-7056473572667510784-9zgY/)
