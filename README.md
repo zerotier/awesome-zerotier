@@ -20,6 +20,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier SD-WAN](#zerotier-sd-wan)
 - [ZeroTier IoT](#zerotier-iot)
 - [ZeroTier Industrial IoT](#zerotier-industrial-iot)
+- [ZeroTier Industrial IoT Hardware](#zerotier-industrial-iot-hardware)
 - [ZeroTier Edge Computing](#zerotier-edge-computing)
 - [ZeroTier Drone/UAV](#zerotier-droneuav)
 - [ZeroTier Robotics](#zerotier-robotics)
@@ -40,6 +41,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier pfSense](#zerotier-pfsense)
 - [ZeroTier Other Routers](#zerotier-other-routers)
 - [ZeroTier Gateways](#zerotier-gateways)
+- [ZeroTier Bastions](#zerotier-bastions)
 - [ZeroTier Synology](#zerotier-synology)
 - [ZeroTier Raspberry Pi](#zerotier-raspberry-pi)
 - [ZeroTier 3-D Printing](#zerotier-3-d-printing)
@@ -181,11 +183,10 @@ found on The Internet. Feel free to add yours!
 
 #### IoT published research
 - [Sensor Actuator Network for In Situ Studies of Antarctic Plants Physiology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9695489/)
+- [European Chemical Bulletin - BRIDGING THE GAP: UNIFYING REMOTE WORK AND IOT INTEGRATION WITH ZEROTIER FOR BETTER CONNECTIVITY AND SECURITY](https://www.eurchembull.com/issue-content/bridging-the-gap-unifying-remote-work-and-iot-integration-with-zero-tier-for-better-connectivity-and-security-14608)
 - [Development of sensors using Internet of Things](https://riunet.upv.es/bitstream/handle/10251/186553/Yerpes%20-%20Development%20of%20sensors%20using%20Internet%20of%20Things.pdf?sequence=1)
 - [ieee.org - Accurate Detection of IoT Sensor Behaviors in Legitimate, Faulty and Compromised Scenarios](https://www.computer.org/csdl/journal/tq/2023/01/09632348/1yYPqVxHkgU)
 - [C3PO: Cloud-based Confidentiality-preserving Continuous Query Processing (IoT)](https://dl.acm.org/doi/10.1145/3472717)
-
-- [balena-io-examples / balena-zerotier-gateway](https://github.com/balena-io-examples/balena-zerotier-gateway)
 
 #### IoT articles global
 - [Se connecter à distance à Home Assistant avec ZeroTier](https://automation360blog.wordpress.com/2021/01/25/iot2050_zerotier/)
@@ -202,6 +203,7 @@ found on The Internet. Feel free to add yours!
 ## ZeroTier Industrial IoT
 
 - [mpsaltis / wago_ZeroTierContainer](https://github.com/mpsaltis/wago_ZeroTierContainer/tree/main)
+- [balena-io-examples / balena-zerotier-gateway](https://github.com/balena-io-examples/balena-zerotier-gateway)
 
 #### Industrial IoT articles
 - [Zerotier & Mikrotik design concept](https://infrageeks.com/post/2023-08-29.zerotier-mikrotik-design-concept/)
@@ -221,6 +223,13 @@ found on The Internet. Feel free to add yours!
 
 #### Industrial IoT videos global
 - [Configurar PLC Siemens S7 1200 en remoto con diferentes IP desde Zerotier](https://www.youtube.com/watch?v=oeXo0wk3dBE)
+
+
+## ZeroTier Industrial IoT Hardware
+
+#### EtherTek Circuits - Remote Monitoring & Control Devices
+- [Exciting News! Introducing ZeroTier to our RMSv2 products!](https://twitter.com/EtherTek/status/1668797431474184192)
+- [RMS-100v2 Firmware](https://remotemonitoringsystems.ca/rms100v2/rms-100v2-upgrade-firmware.php)
 
 
 ## ZeroTier Edge Computing
@@ -370,6 +379,7 @@ found on The Internet. Feel free to add yours!
 - [Teltonika Wiki ZeroTier Configuration](https://wiki.teltonika-networks.com/view/ZeroTier_Configuration)
 - [ZeroTier One VPN configuration RutOS](https://wiki.teltonika-networks.com/wikibase/index.php?title=ZeroTier_One_VPN_configuration_RutOS&mobileaction=toggle_view_desktop)
 - [How do I create a VPN/SD-WAN with Zerotier and Teltonika?](https://know.innon.com/vpn-zerotier-and-teltonika)
+- [RUT240 Cellular Router, Verizon](https://novotech.com/products/cellular-routers/4g-lte-wifi-cellular-router-w-ethernet-i-o-verizon.html)
 
 #### Teltonika Networks articles global
 - [Jak skonfigurować sieć ZeroTier dla routera przemysłowego 4G / LTE – na przykładzie Teltonika RUT240](https://www.astor.com.pl/poradnikautomatyka/jak-skonfigurowac-siec-zerotier-dla-routera-przemyslowego-4g-lte-na-przykladzie-teltonika-rut240/)
@@ -467,9 +477,13 @@ found on The Internet. Feel free to add yours!
 #### WLINK Cellular, 5G/4G/3G/2G, IoT, Industrial IoT, Embedded IoT, Routers, Gateways, Modems
 - [WLINK IoT - About ZeroTier](https://www.wlink-tech.com/art/about-zerotier)
 
+#### Yang Yang
+- [Check out our industrial 5G robust Router F-NR100](https://www.linkedin.com/posts/yang-yang-b53540191_5g-industrial-robust-activity-7056473572667510784-9zgY/)
+
 
 ## ZeroTier Gateways
 
+- [ddeitterick / zerotier-gateway](https://github.com/ddeitterick/zerotier-gateway)
 - [tjelen / zerotier-ubuntu-gateway.md](https://gist.github.com/tjelen/0c070d343c9e6d3db2fbf57e6ceafa7c)
 
 #### ELASTEL
@@ -478,6 +492,15 @@ found on The Internet. Feel free to add yours!
 #### OpenVox 
 - [OpenVox FXS/FXO VoIP Gateways](https://www.openvox.cn/products/38/b200m-detail.html?tmpl=component&print=1)
 
+
+## ZeroTier Bastions
+
+- [heri16 / 0-README.md](https://gist.github.com/heri16/3ffdac34a3190efeae199fd5bd83b561)
+- [orbiously / zerotier-orb](https://github.com/orbiously/zerotier-orb)
+
+#### Bastion articles
+- [AWS ZeroTier Bastion](https://www.matthewevans.co.za/coding/useful-tools/aws-zerotier-bastion.html)
+  
 
 ## ZeroTier Synology
 
