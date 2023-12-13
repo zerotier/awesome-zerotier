@@ -16,6 +16,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier Training](#zerotier-training)
 - [ZeroTier Networking](#zerotier-networking)
 - [ZeroTier Linux](#zerotier-linux)
+- [ZeroTier Windows](#zerotier-windows)
 - [ZeroTier Remote Access](#zerotier-remote-access)
 - [ZeroTier SD-WAN](#zerotier-sd-wan)
 - [ZeroTier IoT](#zerotier-iot)
@@ -28,6 +29,7 @@ found on The Internet. Feel free to add yours!
 - [ZeroTier AgTech](#zerotier-agtech)
 - [ZeroTier Earthquake Detection](#zerotier-earthquake-detection)
 - [ZeroTier Infosec](#zerotier-infosec)
+- [ZeroTier OpenWISP](#zerotier-openwisp)
 - [ZeroTier IBM](#zerotier-ibm)
 - [ZeroTier Terraform](#zerotier-terraform)
 - [ZeroTier Kubernetes](#zerotier-kubernetes)
@@ -129,12 +131,17 @@ found on The Internet. Feel free to add yours!
 #### Linux articles
 - [Curl and jq to Manage ZeroTier networks](https://www.simplecto.com/zerotier-jq-manage-zerotier-networks/)
 - [Install Zerotier CLI Linux](https://www.greghilston.com/post/install_zerotier/)
+- [Arch Linux wiki - ZeroTier](https://wiki.archlinux.org/title/ZeroTier)
 
 #### Linux videos
 - [Roel Van de Paar - Install ZeroTier on Ubuntu with armhf hardware](https://www.youtube.com/watch?v=9KMHwCUzf4g)
 
 #### Linux videos global
 - [Oracle Linux y Zerotier One](https://www.youtube.com/watch?v=y6nwlr9JiV4)
+
+
+## ZeroTier Windows
+- [Chocolatey - zerotier-one (Install)](https://community.chocolatey.org/packages/zerotier-one)
 
 
 ## ZeroTier Remote Access
@@ -227,6 +234,9 @@ found on The Internet. Feel free to add yours!
 
 ## ZeroTier Industrial IoT Hardware
 
+#### Espressif - ZeroTier on embedded devices for Espressif (like ESP8266/ESP32)
+- [zhzhzhy / Zerotier-Espressif](https://github.com/zhzhzhy/Zerotier-Espressif)
+
 #### EtherTek Circuits - Remote Monitoring & Control Devices
 - [Exciting News! Introducing ZeroTier to our RMSv2 products!](https://twitter.com/EtherTek/status/1668797431474184192)
 - [RMS-100v2 Firmware](https://remotemonitoringsystems.ca/rms100v2/rms-100v2-upgrade-firmware.php)
@@ -254,7 +264,10 @@ found on The Internet. Feel free to add yours!
 - [UAVCast- Pro ZeroTier VPN](https://docs.uavmatrix.com/vpn/zerotier/)
 - [VPNs, Cliff Bars, and a Delivery Drone](https://intellitect.com/delivery-drone/)
 - [PX4 Autopilot User Guide - Data Telephony LTE](https://docs.px4.io/v1.12/en/peripherals/companion_computer_peripherals.html#data-telephony-lte)
+
+#### Drone/UAV published research
 - [ieee.org - A Safe, Open Source, 4G Connected Self-Flying Plane With 1 Hour Flight Time and All Up Weight (AUW) < 300 g: Towards a New Class of Internet Enabled UAVs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8718270)
+- [Sensors - Mobile Network Performance and Technical Feasibility of LTE-Powered Unmanned Aerial Vehicle](https://www.mdpi.com/1424-8220/21/8/2848)
 
 
 ## ZeroTier Robotics
@@ -262,11 +275,14 @@ found on The Internet. Feel free to add yours!
 - [nikivanov / watney](https://github.com/nikivanov/watney)
 
 #### Robotics articles
-- [Frontiers in Robotics and AI - Scalable and heterogenous mobile robot fleet-based task automation in crowded hospital environments—a field test](https://www.frontiersin.org/articles/10.3389/frobt.2022.922835/full)
-- [Remote Operation of Marine Robotic Systems and Next-Generation Multi-Purpose Control Rooms](https://www.mdpi.com/2077-1312/11/10/1942)
+
 - [Help understanding BlueBoat Hardware/Software Architecture for hydrography](https://discuss.bluerobotics.com/t/help-understanding-blueboat-hardware-software-architecture-for-hydrography/14822/2)
 - [ETHZ RobotX SuperMegaBot](https://ethz-robotx.github.io/SuperMegaBot/robot-operation/HowToVPN.html) 
 - [Telepresent Operation](https://hackaday.io/project/181888-omni/log/198193-telepresent-operation)
+
+#### Robotics published research
+- [Frontiers in Robotics and AI - Scalable and heterogenous mobile robot fleet-based task automation in crowded hospital environments—a field test](https://www.frontiersin.org/articles/10.3389/frobt.2022.922835/full)
+- [Remote Operation of Marine Robotic Systems and Next-Generation Multi-Purpose Control Rooms](https://www.mdpi.com/2077-1312/11/10/1942)
 - [A 4G-Connected Micro-Rover With Infinite Range](https://www.burkelab.com/wp-content/uploads/A-4G-Connected-Micro-Rover.pdf)
 
 
@@ -305,6 +321,12 @@ found on The Internet. Feel free to add yours!
 #### Infosec videos
 - [Lawrence Systems - How to Use Kali Linux on Raspberry Pi 4 As a Remote Network Access and NMAP Discovery Audit Tool](https://www.youtube.com/watch?v=ksTHrJBihLM)
 - [Lawrence Systems - ZeroTier VS VPN and A Look At The Data Stream With Wireshark](https://www.youtube.com/watch?v=9Rfqi62bo5M)
+
+
+## ZeroTier OpenWISP
+
+#### ZeroTier OpenWISP articles
+- [ZeroTier Tunnel Automation](https://openwisp.io/docs/user/zerotier.html)
 
 
 ## ZeroTier IBM
@@ -412,6 +434,7 @@ found on The Internet. Feel free to add yours!
 - [mwarning / zerotier-openwrt](https://github.com/mwarning/zerotier-openwrt)
 
 #### OpenWrt articles
+- [OpenWrt Wiki - ZeroTier](https://openwrt.org/docs/guide-user/services/vpn/zerotier)
 - [OpenWrt.org - Install a Router as ZeroTier Client](https://forum.openwrt.org/t/install-a-router-as-zerotier-client/152732/6)
 - [Set Up a ZeroTier Network on OpenWRT](https://kysonlok.github.io/2020/06/12/Set-Up-a-ZeroTier-Network-on-OpenWRT/)
 - [ZeroTier on OpenWrt (VPN + SD-WAN)](https://foro.seguridadwireless.net/openwrt/vpn-con-zerotier-en-openwrt/)
@@ -427,6 +450,7 @@ found on The Internet. Feel free to add yours!
 ## ZeroTier OPNsense
 
 #### OPNsense articles
+- [OPNsense Documentation - ZeroTier Configuration](https://docs.opnsense.org/manual/how-tos/zerotier.html)
 - [Gateway IT Tutorials - OPNsense: ZeroTier Installation and configuration (site-to-site connection)](https://www.youtube.com/watch?v=JQfjFqoVePg) 
 - [zerotier – The Dorknet rises](https://www.exclusionzone.org/2019/12/10/zerotier-the-dorknet-rises/) - Self-hosted ZeroTier on OPNsense.
 
@@ -466,6 +490,9 @@ found on The Internet. Feel free to add yours!
 #### NavigateWorx
 - [NavigateWorx Routers now support ZeroTier Platform](https://www.linkedin.com/posts/navigateworx_navigateworx-routers-now-support-zerotier-activity-7084105000540385280-0o7C/)
 
+#### Proroute 4G and 5G routers for remote access and monitoring applications. Industrial grade LTE routers. 
+- [Proroute Support For ZeroTier](https://proroute.co.uk/zero-tier/)
+
 #### SunComm
 - [SunComm SC-588-5G 5G Outdoor CPE/Router](http://www.suncommtech.com.tw/list_16/46.html)
 - [SUNCOMM 5G CPE Zerotier Setting Introduction](https://www.youtube.com/watch?v=7kCWF3g7M3c)
@@ -473,6 +500,10 @@ found on The Internet. Feel free to add yours!
 
 #### TAKTIKAL
 - [TAKTIKAL 5G / 4G LTE Dual-Band Openwrt Wi-Fi Sim Router](https://www.amazon.com/TAKTIKAL-Dual-Band-Openwrt-Business-Zero-Tier/dp/B0BSCTXB2R)
+
+#### VyOS
+- [Run ZeroTier on VyOS router](https://medium.com/@qdrddr/run-zerotier-on-vyos-router-de5aaf1da02b)
+- [Run ZeroTier Node on VyOS router as a bare app](https://medium.com/@qdrddr/run-zerotier-node-on-vyos-router-as-a-bare-app-223037443f85)
 
 #### Webdyn
 - [Webdyn EasyRouter](https://www.linkedin.com/posts/activity-7130887066925592576-0onC)
@@ -573,6 +604,9 @@ found on The Internet. Feel free to add yours!
 
 - [hassio-addons / repository](https://github.com/hassio-addons/repository/blob/master/zerotier/DOCS.md)
 
+#### Home Automation articles
+- [Access your Home Assistant from the Internet with the ZeroTier VPN](https://www.gearrice.com/update/access-your-home-assistant-from-the-internet-with-the-zerotier-vpn/)
+
 #### Home Automation videos
 - [Franck Nijhof - ZeroTier add-on for Home Assistant](https://www.youtube.com/watch?v=uDIShhlJhqw) 
 - [KPeyanski - How to setup ZeroTier network and to add Home Assistant inside?](https://www.youtube.com/watch?v=X47est0lzdg) 
@@ -629,6 +663,9 @@ found on The Internet. Feel free to add yours!
 - [How to get the most out of The Logitech G Cloud](https://medium.com/@quiethours/how-to-get-the-most-out-of-the-logitech-g-cloud-2e91be871eeb)
 - [DIY Cloud Gaming with Sunshine: How to setup and use Sunshine GameStream](https://www.jilaxzone.com/2021/09/01/diy-cloud-gaming-with-sunshine-how-to-setup-and-use-sunshine-gamestream-over-the-internet-to-play-pc-games-emulators-anywhere-on-android-and-ios/)
 - [FnafDoomMod2Wiki - Multiplayer Tutorial - ZerotierOne Tutorial](https://fnaf-doom-mod-2.fandom.com/wiki/Multiplayer_Tutorial#ZerotierOne_Tutorial)
+
+#### Gaming published research
+- [End-to-end Characterization of Game Streaming Applications on Mobile Platforms](https://dl.acm.org/doi/pdf/10.1145/3508030)
 
 #### Gaming videos
 - [Arkham Knight - ZeroTier LAN Coop gaming (Tunngle Alternative,Peer to Peer Network ) 2020 multiplayer gaming](https://www.youtube.com/watch?v=WIxpVHf4ic8) 
