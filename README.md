@@ -2,6 +2,10 @@
     <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 </a>
 
+# Archive Message
+
+We haven't been able to maintain this repo with the attention it needs, so we are archiving it. 
+
 # A List of Awesome ZeroTier Things
 
 Hello!
